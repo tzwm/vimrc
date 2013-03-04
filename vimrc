@@ -48,6 +48,7 @@ nmap <C-@>e :cs find e <C-R>=expand("<cword>")<CR><CR>:copen<CR>
 nmap <C-@>f :cs find f <C-R>=expand("<cfile>")<CR><CR>:copen<CR>
 nmap <C-@>i :cs find i ^<C-R>=expand("<cfile>")<CR>$<CR>:copen<CR>
 nmap <C-@>d :cs find d <C-R>=expand("<cword>")<CR><CR>:copen<CR>
+
 function Do_CsTag()
     let dir = getcwd()
     if filereadable("tags")
