@@ -1,15 +1,3 @@
-if(has("win32") || has("win95") || has("win64") || has("win16")) "判定当前操作系统类型
-    let g:iswindows=1
-else
-    let g:iswindows=0
-endif
-if(g:iswindows==1) "允许鼠标的使用
-    "防止linux终端下无法拷贝
-    if has('mouse')
-        set mouse=a
-    endif
-    au GUIEnter * simalt ~x
-endif
 set nocompatible" 不兼容模式
 set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1 "亂碼問題
 set hls"高亮
@@ -20,17 +8,22 @@ set shiftwidth=4
 set tabstop=4
 set softtabstop=4
 set expandtab
-
+set number 
 set sm "括號配對情況
+set spell 
+set selection=inclusive
+set wildmenu
 
 filetype plugin indent on
 set completeopt=longest,menu
 
 if (has("gui_running"))
     set nowrap 
-    set guioptions+=b
+    set guioptions-=b
+    set guioptions-=r
     colo torte
     set guioptions-=T
+    set guioptions-=m
 else
     set wrap
 "    colo ron
@@ -38,6 +31,10 @@ endif
 
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 call pathogen#infect()
+
+inoremap <C-Return> <CR><CR><C-o>k<Tab>
+
+let g:user_zen_expandabbr_key = '<Tab>'
 
 map <F12> :call Do_CsTag()<CR>
 nmap <C-@>s :cs find s <C-R>=expand("<cword>")<CR><CR>:copen<CR>

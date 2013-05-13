@@ -1,3 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/media/tzwm/work/OSProject/src'
+let g:netrw_dirhist_2='/etc/profile.d'
+let g:netrw_dirhist_3='/home/tzwm/Development/rails_projects/first_app/db/migrate'
+let g:netrw_dirhist_4='/home/tzwm/Development/rails_projects/first_app/app/controllers'
+let g:netrw_dirhist_5='/home/tzwm/Development/rails_projects/first_app/app/views'
+let g:netrw_dirhist_6='/home/tzwm/Development/rails_projects/first_app'
