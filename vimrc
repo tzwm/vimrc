@@ -10,7 +10,6 @@ set softtabstop=4
 set expandtab
 set number 
 set sm "括號配對情況
-set spell 
 set selection=inclusive
 set wildmenu
 
@@ -34,17 +33,22 @@ call pathogen#infect()
 
 inoremap <C-Return> <CR><CR><C-o>k<Tab>
 
-let g:user_zen_expandabbr_key = '<Tab>'
+" let g:user_zen_expandabbr_key = '<Tab>'
 
-map <F12> :call Do_CsTag()<CR>
-nmap <C-@>s :cs find s <C-R>=expand("<cword>")<CR><CR>:copen<CR>
-nmap <C-@>g :cs find g <C-R>=expand("<cword>")<CR><CR>
-nmap <C-@>c :cs find c <C-R>=expand("<cword>")<CR><CR>:copen<CR>
-nmap <C-@>t :cs find t <C-R>=expand("<cword>")<CR><CR>:copen<CR>
-nmap <C-@>e :cs find e <C-R>=expand("<cword>")<CR><CR>:copen<CR>
-nmap <C-@>f :cs find f <C-R>=expand("<cfile>")<CR><CR>:copen<CR>
-nmap <C-@>i :cs find i ^<C-R>=expand("<cfile>")<CR>$<CR>:copen<CR>
-nmap <C-@>d :cs find d <C-R>=expand("<cword>")<CR><CR>:copen<CR>
+map <F12> :call DoCtags()<CR>
+" nmap <C-@>s :cs find s <C-R>=expand("<cword>")<CR><CR>:copen<CR>
+" nmap <C-@>g :cs find g <C-R>=expand("<cword>")<CR><CR>
+" nmap <C-@>c :cs find c <C-R>=expand("<cword>")<CR><CR>:copen<CR>
+" nmap <C-@>t :cs find t <C-R>=expand("<cword>")<CR><CR>:copen<CR>
+" nmap <C-@>e :cs find e <C-R>=expand("<cword>")<CR><CR>:copen<CR>
+" nmap <C-@>f :cs find f <C-R>=expand("<cfile>")<CR><CR>:copen<CR>
+" nmap <C-@>i :cs find i ^<C-R>=expand("<cfile>")<CR>$<CR>:copen<CR>
+" nmap <C-@>d :cs find d <C-R>=expand("<cword>")<CR><CR>:copen<CR>
+
+function DoCtags()
+    silent! execute "!ctags -R --c++-kinds=+p --fields=+iaIS --extra=+q ."
+    silent! execute "!cscope -b"
+endfunction
 
 function Do_CsTag()
     let dir = getcwd()
