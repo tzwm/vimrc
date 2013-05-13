@@ -1,0 +1,1164 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+<SID>xx	bundle/taglist/plugin/taglist.vim	/^    map <SID>xx <SID>xx$/;"	m
+ABOVE_NORMAL_PRIORITY_CLASS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^ABOVE_NORMAL_PRIORITY_CLASS = 0x00008000$/;"	v
+BELOW_NORMAL_PRIORITY_CLASS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^BELOW_NORMAL_PRIORITY_CLASS = 0x00004000$/;"	v
+Bookmark.AddBookmark	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.AddBookmark(name, path)$/;"	f
+Bookmark.BookmarkExistsFor	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.BookmarkExistsFor(name)$/;"	f
+Bookmark.BookmarkFor	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.BookmarkFor(name)$/;"	f
+Bookmark.BookmarkNames	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.BookmarkNames()$/;"	f
+Bookmark.Bookmarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.Bookmarks()$/;"	f
+Bookmark.CacheBookmarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.CacheBookmarks(silent)$/;"	f
+Bookmark.ClearAll	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.ClearAll()$/;"	f
+Bookmark.GetNodeForName	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.GetNodeForName(name, searchFromAbsoluteRoot)$/;"	f
+Bookmark.GetSelected	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.GetSelected()$/;"	f
+Bookmark.InvalidBookmarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.InvalidBookmarks()$/;"	f
+Bookmark.New	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.New(name, path)$/;"	f
+Bookmark.Sort	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.Sort()$/;"	f
+Bookmark.ToRoot	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.ToRoot(name)$/;"	f
+Bookmark.Write	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.Write()$/;"	f
+Bookmark.activate	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.activate()$/;"	f
+Bookmark.compareTo	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.compareTo(otherbookmark)$/;"	f
+Bookmark.delete	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.delete()$/;"	f
+Bookmark.getNode	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.getNode(searchFromAbsoluteRoot)$/;"	f
+Bookmark.mustExist	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.mustExist()$/;"	f
+Bookmark.openInNewTab	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.openInNewTab(options)$/;"	f
+Bookmark.setPath	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.setPath(path)$/;"	f
+Bookmark.str	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.str()$/;"	f
+Bookmark.toRoot	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.toRoot()$/;"	f
+Bookmark.validate	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Bookmark.validate()$/;"	f
+CAPSLOCK_ON	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CAPSLOCK_ON = 0x0080$/;"	v
+CHAR_INFO	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class CHAR_INFO(Structure):$/;"	c	inherits:Structure
+CHAR_UNION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class CHAR_UNION(Union):$/;"	c	inherits:Union
+CONQUE_COLOR_SEQUENCE	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_COLOR_SEQUENCE = ($/;"	v
+CONQUE_CTL	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_CTL = {$/;"	v
+CONQUE_ESCAPE	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_ESCAPE = {$/;"	v
+CONQUE_ESCAPE_CHARSET	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_ESCAPE_CHARSET = {$/;"	v
+CONQUE_ESCAPE_HASH	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_ESCAPE_HASH = {$/;"	v
+CONQUE_ESCAPE_PLAIN	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_ESCAPE_PLAIN = {$/;"	v
+CONQUE_ESCAPE_QUESTION	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_ESCAPE_QUESTION = {$/;"	v
+CONQUE_FONT	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_FONT = {$/;"	v
+CONQUE_GRAPHICS_SET	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_GRAPHICS_SET = [$/;"	v
+CONQUE_MAX_SYNTAX_LINES	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_MAX_SYNTAX_LINES = 200$/;"	v
+CONQUE_PYTHON_VERSION	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_PYTHON_VERSION = sys.version_info[0]$/;"	v
+CONQUE_PYTHON_VERSION	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^CONQUE_PYTHON_VERSION = sys.version_info[0]$/;"	v
+CONQUE_SEQ_REGEX	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX = re.compile("(\\x1b\\[?\\??#?[0-9;]*[a-zA-Z0-9@=>]|\\x1b\\][0-9];.*?\\x07|[\\x01-\\x0f]|\\x1b\\([AB0])")$/;"	v
+CONQUE_SEQ_REGEX_CHAR	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_CHAR = re.compile("^\\x1b[()]")$/;"	v
+CONQUE_SEQ_REGEX_CSI	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_CSI = re.compile("^\\x1b\\[")$/;"	v
+CONQUE_SEQ_REGEX_CTL	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_CTL = re.compile("^[\\x01-\\x0f]$")$/;"	v
+CONQUE_SEQ_REGEX_ESC	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_ESC = re.compile("^\\x1b.$")$/;"	v
+CONQUE_SEQ_REGEX_HASH	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_HASH = re.compile("^\\x1b#")$/;"	v
+CONQUE_SEQ_REGEX_TITLE	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SEQ_REGEX_TITLE = re.compile("^\\x1b\\]")$/;"	v
+CONQUE_SOLE_BUFFER_LENGTH	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_BUFFER_LENGTH = 1000$/;"	v
+CONQUE_SOLE_BUFFER_REDRAW	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_BUFFER_REDRAW = 500$/;"	v
+CONQUE_SOLE_COMMANDS_SIZE	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_COMMANDS_SIZE = 255$/;"	v
+CONQUE_SOLE_INPUT_SIZE	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_INPUT_SIZE = 1000$/;"	v
+CONQUE_SOLE_MEM_REDRAW	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_MEM_REDRAW = 1000$/;"	v
+CONQUE_SOLE_RESCROLL_SIZE	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_RESCROLL_SIZE = 255$/;"	v
+CONQUE_SOLE_RESIZE_SIZE	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_RESIZE_SIZE = 255$/;"	v
+CONQUE_SOLE_SCREEN_REDRAW	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_SCREEN_REDRAW = 50$/;"	v
+CONQUE_SOLE_STATS_SIZE	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_SOLE_STATS_SIZE = 1000$/;"	v
+CONQUE_TABLE_OUTPUT	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_TABLE_OUTPUT = re.compile("^\\s*\\|\\s.*\\s\\|\\s*$|^\\s*\\+[=+-]+\\+\\s*$")$/;"	v
+CONQUE_VIM_ENCODING	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^    CONQUE_VIM_ENCODING = 'utf-8'$/;"	v
+CONQUE_VIM_ENCODING	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^    CONQUE_VIM_ENCODING = vim.eval('&encoding')$/;"	v
+CONQUE_VK_ATTR_CTRL_PRESSED	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_VK_ATTR_CTRL_PRESSED = u('1024')$/;"	v
+CONQUE_WIN32_REGEX_ATTR	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_WIN32_REGEX_ATTR = re.compile("((.)\\\\2*)", re.DOTALL)$/;"	v
+CONQUE_WIN32_REGEX_VK	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^CONQUE_WIN32_REGEX_VK = re.compile("(\\x1b\\[[0-9;]+VK)")$/;"	v
+CONQUE_WINDOWS_VK	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CONQUE_WINDOWS_VK = {$/;"	v
+CONQUE_WINDOWS_VK_ENHANCED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CONQUE_WINDOWS_VK_ENHANCED = {$/;"	v
+CONQUE_WINDOWS_VK_INV	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CONQUE_WINDOWS_VK_INV = dict([v, k] for k, v in CONQUE_WINDOWS_VK.items())$/;"	v
+CONSOLE_SCREEN_BUFFER_INFO	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class CONSOLE_SCREEN_BUFFER_INFO(Structure):$/;"	c	inherits:Structure
+COORD	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class COORD(Structure):$/;"	c	inherits:Structure
+CREATE_BREAKAWAY_FROM_JOB	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_BREAKAWAY_FROM_JOB = 0x01000000$/;"	v
+CREATE_DEFAULT_ERROR_MODE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_DEFAULT_ERROR_MODE = 0x04000000$/;"	v
+CREATE_NEW_CONSOLE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_NEW_CONSOLE = 0x00000010$/;"	v
+CREATE_NEW_PROCESS_GROUP	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_NEW_PROCESS_GROUP = 0x00000200$/;"	v
+CREATE_NO_WINDOW	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_NO_WINDOW = 0x08000000$/;"	v
+CREATE_PRESERVE_CODE_AUTHZ_LEVEL	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_PRESERVE_CODE_AUTHZ_LEVEL = 0x02000000$/;"	v
+CREATE_PROTECTED_PROCESS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_PROTECTED_PROCESS = 0x00040000$/;"	v
+CREATE_SEPARATE_WOW_VDM	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_SEPARATE_WOW_VDM = 0x00000800$/;"	v
+CREATE_SHARED_WOW_VDM	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_SHARED_WOW_VDM = 0x00001000$/;"	v
+CREATE_SUSPENDED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_SUSPENDED = 0x00000004$/;"	v
+CREATE_UNICODE_ENVIRONMENT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^CREATE_UNICODE_ENVIRONMENT = 0x00000400$/;"	v
+ChooseValue	bundle/php/syntax/php.vim	/^function! s:ChooseValue(name, default)$/;"	f
+Conque	bundle/ConqueTerm/autoload/conque_term/conque.py	/^class Conque:$/;"	c	inherits:
+ConqueScreen	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^class ConqueScreen(object):$/;"	c	inherits:object
+ConqueSole	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^class ConqueSole(Conque):$/;"	c	inherits:Conque
+ConqueSoleSharedMemory	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^class ConqueSoleSharedMemory():$/;"	c	inherits:
+ConqueSoleSubprocess	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^class ConqueSoleSubprocess():$/;"	c	inherits:
+ConqueSoleWrapper	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^class ConqueSoleWrapper():$/;"	c	inherits:
+ConqueSubprocess	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^class ConqueSubprocess:$/;"	c	inherits:
+ConqueTerm	bundle/ConqueTerm/plugin/conque_term.vim	/^command! -nargs=+ -complete=shellcmd ConqueTerm call conque_term#open(<q-args>)$/;"	c
+ConqueTermSplit	bundle/ConqueTerm/plugin/conque_term.vim	/^command! -nargs=+ -complete=shellcmd ConqueTermSplit call conque_term#open(<q-args>, ['belowright split'])$/;"	c
+ConqueTermTab	bundle/ConqueTerm/plugin/conque_term.vim	/^command! -nargs=+ -complete=shellcmd ConqueTermTab call conque_term#open(<q-args>, ['tabnew'])$/;"	c
+ConqueTermVSplit	bundle/ConqueTerm/plugin/conque_term.vim	/^command! -nargs=+ -complete=shellcmd ConqueTermVSplit call conque_term#open(<q-args>, ['belowright vsplit'])$/;"	c
+DEBUG_ONLY_THIS_PROCESS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^DEBUG_ONLY_THIS_PROCESS = 0x00000002$/;"	v
+DEBUG_PROCESS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^DEBUG_PROCESS = 0x00000001$/;"	v
+DETACHED_PROCESS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^DETACHED_PROCESS = 0x00000008$/;"	v
+ENHANCED_KEY	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^ENHANCED_KEY = 0x0100$/;"	v
+EXTENDED_STARTUPINFO_PRESENT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^EXTENDED_STARTUPINFO_PRESENT = 0x00080000$/;"	v
+FILL_CHAR	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    FILL_CHAR = None$/;"	v	class:ConqueSoleSharedMemory
+FOCUS_EVENT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^FOCUS_EVENT = 0x0010$/;"	v
+FOCUS_EVENT_RECORD	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class FOCUS_EVENT_RECORD(Structure):$/;"	c	inherits:Structure
+Findcomplete	autoload/pathogen.vim	/^function! s:Findcomplete(A,L,P) " {{{1$/;"	f
+HIGH_PRIORITY_CLASS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^HIGH_PRIORITY_CLASS = 0x00000080$/;"	v
+Helptags	autoload/pathogen.vim	/^command! -bar Helptags :call pathogen#helptags()$/;"	c
+HiLink	bundle/php/syntax/php.vim	/^      command -nargs=+ HiLink hi link <args>$/;"	c
+HiLink	bundle/php/syntax/php.vim	/^    command -nargs=+ HiLink hi link <args>$/;"	c
+HtmlHiLink	bundle/markdown/syntax/markdown.vim	/^  command! -nargs=+ HtmlHiLink hi def link <args>$/;"	c
+HtmlHiLink	bundle/markdown/syntax/markdown.vim	/^  command! -nargs=+ HtmlHiLink hi link <args>$/;"	c
+IDLE_PRIORITY_CLASS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^IDLE_PRIORITY_CLASS = 0x00000040$/;"	v
+INHERIT_PARENT_AFFINITY	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^INHERIT_PARENT_AFFINITY = 0x00010000$/;"	v
+INPUT_RECORD	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class INPUT_RECORD(Structure):$/;"	c	inherits:Structure
+INPUT_UNION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class INPUT_UNION(Union):$/;"	c	inherits:Union
+KEY_EVENT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^KEY_EVENT = 0x0001$/;"	v
+KEY_EVENT_RECORD	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class KEY_EVENT_RECORD(Structure):$/;"	c	inherits:Structure
+KeyMap.All	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:KeyMap.All()$/;"	f
+KeyMap.BindAll	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:KeyMap.BindAll()$/;"	f
+KeyMap.Create	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:KeyMap.Create(options)$/;"	f
+KeyMap.bind	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:KeyMap.bind()$/;"	f
+LEFT_ALT_PRESSED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^LEFT_ALT_PRESSED = 0x0002$/;"	v
+LEFT_CTRL_PRESSED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^LEFT_CTRL_PRESSED = 0x0008$/;"	v
+LPBYTE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^LPBYTE = POINTER(c_ubyte)$/;"	v
+LPTSTR	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^LPTSTR = POINTER(c_char)$/;"	v
+MEMORY_BASIC_INFORMATION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class MEMORY_BASIC_INFORMATION(Structure):$/;"	c	inherits:Structure
+MENU_EVENT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^MENU_EVENT = 0x0008$/;"	v
+MENU_EVENT_RECORD	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class MENU_EVENT_RECORD(Structure):$/;"	c	inherits:Structure
+MOUSE_EVENT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^MOUSE_EVENT = 0x0002$/;"	v
+MOUSE_EVENT_RECORD	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class MOUSE_EVENT_RECORD(Structure):$/;"	c	inherits:Structure
+MenuController.New	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController.New(menuItems)$/;"	f
+MenuController._allIndexesFor	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._allIndexesFor(shortcut)$/;"	f
+MenuController._current	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._current()$/;"	f
+MenuController._cursorDown	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._cursorDown()$/;"	f
+MenuController._cursorUp	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._cursorUp()$/;"	f
+MenuController._echoPrompt	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._echoPrompt()$/;"	f
+MenuController._handleKeypress	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._handleKeypress(key)$/;"	f
+MenuController._nextIndexFor	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._nextIndexFor(shortcut)$/;"	f
+MenuController._restoreOptions	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._restoreOptions()$/;"	f
+MenuController._saveOptions	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._saveOptions()$/;"	f
+MenuController._setCmdheight	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController._setCmdheight()$/;"	f
+MenuController.showMenu	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuController.showMenu()$/;"	f
+MenuItem.All	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.All()$/;"	f
+MenuItem.AllEnabled	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.AllEnabled()$/;"	f
+MenuItem.Create	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.Create(options)$/;"	f
+MenuItem.CreateSeparator	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.CreateSeparator(options)$/;"	f
+MenuItem.CreateSubmenu	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.CreateSubmenu(options)$/;"	f
+MenuItem.enabled	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.enabled()$/;"	f
+MenuItem.execute	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.execute()$/;"	f
+MenuItem.isSeparator	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.isSeparator()$/;"	f
+MenuItem.isSubmenu	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:MenuItem.isSubmenu()$/;"	f
+NERDTree	bundle/nerdtree/plugin/NERD_tree.vim	/^augroup NERDTree$/;"	a
+NERDTree	bundle/nerdtree/plugin/NERD_tree.vim	/^command! -n=? -complete=dir -bar NERDTree :call s:initNerdTree('<args>')$/;"	c
+NERDTreeAddKeyMap	bundle/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddKeyMap(options)$/;"	f
+NERDTreeAddMenuItem	bundle/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddMenuItem(options)$/;"	f
+NERDTreeAddMenuSeparator	bundle/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddMenuSeparator(...)$/;"	f
+NERDTreeAddNode	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeAddNode()$/;"	f
+NERDTreeAddSubmenu	bundle/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddSubmenu(options)$/;"	f
+NERDTreeClose	bundle/nerdtree/plugin/NERD_tree.vim	/^command! -n=0 -bar NERDTreeClose :call s:closeTreeIfOpen()$/;"	c
+NERDTreeCopyNode	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeCopyNode()$/;"	f
+NERDTreeDeleteNode	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeDeleteNode()$/;"	f
+NERDTreeExecFile	bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim	/^function! NERDTreeExecFile()$/;"	f
+NERDTreeExecFileActive	bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim	/^function! NERDTreeExecFileActive()$/;"	f
+NERDTreeExecuteFile	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeExecuteFile()$/;"	f
+NERDTreeFind	bundle/nerdtree/plugin/NERD_tree.vim	/^command! -n=0 -bar NERDTreeFind call s:findAndRevealPath()$/;"	c
+NERDTreeFromBookmark	bundle/nerdtree/plugin/NERD_tree.vim	/^command! -n=1 -complete=customlist,s:completeBookmarks -bar NERDTreeFromBookmark call s:initNerdTree('<args>')$/;"	c
+NERDTreeHijackNetrw	bundle/nerdtree/plugin/NERD_tree.vim	/^    augroup NERDTreeHijackNetrw$/;"	a
+NERDTreeMirror	bundle/nerdtree/plugin/NERD_tree.vim	/^command! -n=0 -bar NERDTreeMirror call s:initNerdTreeMirror()$/;"	c
+NERDTreeMoveNode	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeMoveNode()$/;"	f
+NERDTreeQuickLook	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeQuickLook()$/;"	f
+NERDTreeRender	bundle/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeRender()$/;"	f
+NERDTreeRevealInFinder	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeRevealInFinder()$/;"	f
+NERDTreeToggle	bundle/nerdtree/plugin/NERD_tree.vim	/^command! -n=? -complete=dir -bar NERDTreeToggle :call s:toggle('<args>')$/;"	c
+NORMAL_PRIORITY_CLASS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^NORMAL_PRIORITY_CLASS = 0x00000020$/;"	v
+NUMLOCK_ON	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^NUMLOCK_ON = 0x0020$/;"	v
+PROCESS_CREATE_PROCESS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_CREATE_PROCESS = 0x0080$/;"	v
+PROCESS_CREATE_THREAD	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_CREATE_THREAD = 0x0002$/;"	v
+PROCESS_DUP_HANDLE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_DUP_HANDLE = 0x0040$/;"	v
+PROCESS_INFORMATION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class PROCESS_INFORMATION(Structure):$/;"	c	inherits:Structure
+PROCESS_QUERY_INFORMATION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_QUERY_INFORMATION = 0x0400$/;"	v
+PROCESS_QUERY_LIMITED_INFORMATION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_QUERY_LIMITED_INFORMATION = 0x1000$/;"	v
+PROCESS_SET_INFORMATION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_SET_INFORMATION = 0x0200$/;"	v
+PROCESS_SET_QUOTA	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_SET_QUOTA = 0x0100$/;"	v
+PROCESS_SUSPEND_RESUME	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_SUSPEND_RESUME = 0x0800$/;"	v
+PROCESS_TERMINATE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_TERMINATE = 0x0001$/;"	v
+PROCESS_VM_OPERATION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_VM_OPERATION = 0x0008$/;"	v
+PROCESS_VM_READ	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_VM_READ = 0x0010$/;"	v
+PROCESS_VM_WRITE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^PROCESS_VM_WRITE = 0x0020$/;"	v
+Path.AbsolutePathFor	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.AbsolutePathFor(str)$/;"	f
+Path.CopyingSupported	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.CopyingSupported()$/;"	f
+Path.Create	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.Create(fullpath)$/;"	f
+Path.JoinPathStrings	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.JoinPathStrings(...)$/;"	f
+Path.New	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.New(path)$/;"	f
+Path.Slash	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.Slash()$/;"	f
+Path.WinToUnixPath	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.WinToUnixPath(pathstr)$/;"	f
+Path._str	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path._str()$/;"	f
+Path._strForCd	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path._strForCd()$/;"	f
+Path._strForEdit	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path._strForEdit()$/;"	f
+Path._strForGlob	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path._strForGlob()$/;"	f
+Path._strForUI	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path._strForUI()$/;"	f
+Path.bookmarkNames	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.bookmarkNames()$/;"	f
+Path.cacheDisplayString	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.cacheDisplayString()$/;"	f
+Path.changeToDir	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.changeToDir()$/;"	f
+Path.compareTo	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.compareTo(path)$/;"	f
+Path.copy	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.copy(dest)$/;"	f
+Path.copyingWillOverwrite	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.copyingWillOverwrite(dest)$/;"	f
+Path.delete	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.delete()$/;"	f
+Path.displayString	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.displayString()$/;"	f
+Path.equals	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.equals(path)$/;"	f
+Path.exists	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.exists()$/;"	f
+Path.extractDriveLetter	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.extractDriveLetter(fullpath)$/;"	f
+Path.getDir	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.getDir()$/;"	f
+Path.getLastPathComponent	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.getLastPathComponent(dirSlash)$/;"	f
+Path.getParent	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.getParent()$/;"	f
+Path.getSortOrderIndex	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.getSortOrderIndex()$/;"	f
+Path.ignore	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.ignore()$/;"	f
+Path.isUnder	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.isUnder(path)$/;"	f
+Path.readInfoFromDisk	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.readInfoFromDisk(fullpath)$/;"	f
+Path.refresh	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.refresh()$/;"	f
+Path.rename	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.rename(newPath)$/;"	f
+Path.str	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.str(...)$/;"	f
+Path.strTrunk	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:Path.strTrunk()$/;"	f
+REALTIME_PRIORITY_CLASS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^REALTIME_PRIORITY_CLASS = 0x00000100$/;"	v
+RIGHT_ALT_PRESSED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^RIGHT_ALT_PRESSED = 0x0001$/;"	v
+RIGHT_CTRL_PRESSED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^RIGHT_CTRL_PRESSED = 0x0004$/;"	v
+SCROLLLOCK_ON	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SCROLLLOCK_ON = 0x0040$/;"	v
+SECURITY_ATTRIBUTES	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class SECURITY_ATTRIBUTES(Structure):$/;"	c	inherits:Structure
+SHIFT_PRESSED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SHIFT_PRESSED = 0x0010$/;"	v
+SMALL_RECT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class SMALL_RECT(Structure):$/;"	c	inherits:Structure
+STARTF_FORCEOFFFEEDBACK	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_FORCEOFFFEEDBACK = 0x00000080$/;"	v
+STARTF_FORCEONFEEDBACK	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_FORCEONFEEDBACK = 0x00000040$/;"	v
+STARTF_PREVENTPINNING	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_PREVENTPINNING = 0x00002000$/;"	v
+STARTF_RUNFULLSCREEN	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_RUNFULLSCREEN = 0x00000020$/;"	v
+STARTF_TITLEISAPPID	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_TITLEISAPPID = 0x00001000$/;"	v
+STARTF_TITLEISLINKNAME	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_TITLEISLINKNAME = 0x00000800$/;"	v
+STARTF_USECOUNTCHARS	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_USECOUNTCHARS = 0x00000008$/;"	v
+STARTF_USEFILLATTRIBUTE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_USEFILLATTRIBUTE = 0x00000010$/;"	v
+STARTF_USEHOTKEY	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_USEHOTKEY = 0x00000200$/;"	v
+STARTF_USEPOSITION	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_USEPOSITION = 0x00000004$/;"	v
+STARTF_USESHOWWINDOW	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_USESHOWWINDOW = 0x00000001$/;"	v
+STARTF_USESIZE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_USESIZE = 0x00000002$/;"	v
+STARTF_USESTDHANDLES	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STARTF_USESTDHANDLES = 0x00000100$/;"	v
+STARTUPINFO	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class STARTUPINFO(Structure):$/;"	c	inherits:Structure
+STD_ERROR_HANDLE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STD_ERROR_HANDLE = c_ulong(-12)$/;"	v
+STD_INPUT_HANDLE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STD_INPUT_HANDLE = c_ulong(-10)$/;"	v
+STD_OUTPUT_HANDLE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^STD_OUTPUT_HANDLE = c_ulong(-11)$/;"	v
+SW_FORCEMINIMIZE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_FORCEMINIMIZE = 11$/;"	v
+SW_HIDE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_HIDE = 0$/;"	v
+SW_MAXIMIZE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_MAXIMIZE = 3$/;"	v
+SW_MINIMIZE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_MINIMIZE = 6$/;"	v
+SW_RESTORE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_RESTORE = 9$/;"	v
+SW_SHOW	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_SHOW = 5$/;"	v
+SW_SHOWDEFAULT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_SHOWDEFAULT = 10$/;"	v
+SW_SHOWMAXIMIZED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_SHOWMAXIMIZED = 3$/;"	v
+SW_SHOWMINIMIZED	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_SHOWMINIMIZED = 2$/;"	v
+SW_SHOWMINNOACTIVE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_SHOWMINNOACTIVE = 7$/;"	v
+SW_SHOWNA	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_SHOWNA = 8$/;"	v
+SW_SHOWNOACTIVATE	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_SHOWNOACTIVATE = 4$/;"	v
+SW_SHOWNORMAL	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^SW_SHOWNORMAL = 1$/;"	v
+TERMINATOR	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    TERMINATOR = None$/;"	v	class:ConqueSoleSharedMemory
+TagList_IsValid	bundle/taglist/plugin/taglist.vim	/^function! TagList_IsValid()$/;"	f
+TagList_Start	bundle/taglist/plugin/taglist.vim	/^function! TagList_Start()$/;"	f
+TagList_WrapUp	bundle/taglist/plugin/taglist.vim	/^function! TagList_WrapUp()$/;"	f
+TagList_title	bundle/taglist/plugin/taglist.vim	/^    let TagList_title = "__Tag_List__"$/;"	v
+Tlist	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar Tlist TlistToggle$/;"	c
+TlistAddFiles	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=+ -complete=file TlistAddFiles$/;"	c
+TlistAddFilesRecursive	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=+ -complete=dir TlistAddFilesRecursive$/;"	c
+TlistClose	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistClose call s:Tlist_Window_Close()$/;"	c
+TlistDebug	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=? -complete=file -bar TlistDebug$/;"	c
+TlistHighlightTag	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistHighlightTag call s:Tlist_Window_Highlight_Tag($/;"	c
+TlistLock	bundle/taglist/plugin/taglist.vim	/^    command! -bar TlistLock let Tlist_Auto_Update=0$/;"	c
+TlistMessages	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistMessages call s:Tlist_Debug_Show()$/;"	c
+TlistOpen	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistOpen call s:Tlist_Window_Open()$/;"	c
+TlistSessionLoad	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=* -complete=file TlistSessionLoad$/;"	c
+TlistSessionSave	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=* -complete=file TlistSessionSave$/;"	c
+TlistShowPrototype	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=* -complete=buffer TlistShowPrototype$/;"	c
+TlistShowTag	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=* -complete=buffer TlistShowTag$/;"	c
+TlistSync	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistSync TlistHighlightTag$/;"	c
+TlistToggle	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistToggle call s:Tlist_Window_Toggle()$/;"	c
+TlistUndebug	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistUndebug  call s:Tlist_Debug_Disable()$/;"	c
+TlistUnlock	bundle/taglist/plugin/taglist.vim	/^    command! -bar TlistUnlock let Tlist_Auto_Update=1$/;"	c
+TlistUpdate	bundle/taglist/plugin/taglist.vim	/^    command! -nargs=0 -bar TlistUpdate call s:Tlist_Update_Current_File()$/;"	c
+Tlist_Add_Files	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Add_Files(...)$/;"	f
+Tlist_Add_Files_Recursive	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Add_Files_Recursive(dir, ...)$/;"	f
+Tlist_Auto_Highlight_Tag	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Auto_Highlight_Tag = 1$/;"	v
+Tlist_Auto_Open	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Auto_Open = 0$/;"	v
+Tlist_Auto_Update	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Auto_Update = 1$/;"	v
+Tlist_Ballon_Expr	bundle/taglist/plugin/taglist.vim	/^function! Tlist_Ballon_Expr()$/;"	f
+Tlist_Buffer_Removed	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Buffer_Removed(filename)$/;"	f
+Tlist_Change_Sort	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Change_Sort(caller, action, sort_type)$/;"	f
+Tlist_Close_On_Select	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Close_On_Select = 0$/;"	v
+Tlist_Compact_Format	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Compact_Format = 0$/;"	v
+Tlist_Create_Folds_For_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Create_Folds_For_File(fidx)$/;"	f
+Tlist_Ctags_Cmd	bundle/taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'ctags'$/;"	v
+Tlist_Ctags_Cmd	bundle/taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'ctags.exe'$/;"	v
+Tlist_Ctags_Cmd	bundle/taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'exctags'$/;"	v
+Tlist_Ctags_Cmd	bundle/taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'exuberant-ctags'$/;"	v
+Tlist_Ctags_Cmd	bundle/taglist/plugin/taglist.vim	/^            let Tlist_Ctags_Cmd = 'tags'$/;"	v
+Tlist_Debug_Disable	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Debug_Disable(...)$/;"	f
+Tlist_Debug_Enable	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Debug_Enable(...)$/;"	f
+Tlist_Debug_Show	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Debug_Show()$/;"	f
+Tlist_Detect_Filetype	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Detect_Filetype(fname)$/;"	f
+Tlist_Discard_FileInfo	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Discard_FileInfo(fidx)$/;"	f
+Tlist_Discard_TagInfo	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Discard_TagInfo(fidx)$/;"	f
+Tlist_Display_Prototype	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Display_Prototype = 0$/;"	v
+Tlist_Display_Tag_Scope	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Display_Tag_Scope = 1$/;"	v
+Tlist_Enable_Fold_Column	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Enable_Fold_Column = 1$/;"	v
+Tlist_Exe_Cmd_No_Acmds	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Exe_Cmd_No_Acmds(cmd)$/;"	f
+Tlist_Exit_OnlyWindow	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Exit_OnlyWindow = 0$/;"	v
+Tlist_Extract_Tag_Scope	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Extract_Tag_Scope(tag_line)$/;"	f
+Tlist_Extract_Tagtype	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Extract_Tagtype(tag_line)$/;"	f
+Tlist_FileType_Init	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_FileType_Init(ftype)$/;"	f
+Tlist_File_Fold_Auto_Close	bundle/taglist/plugin/taglist.vim	/^        let Tlist_File_Fold_Auto_Close = 0$/;"	v
+Tlist_Find_Nearest_Tag_Idx	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Find_Nearest_Tag_Idx(fidx, linenum)$/;"	f
+Tlist_GainFocus_On_ToggleOpen	bundle/taglist/plugin/taglist.vim	/^        let Tlist_GainFocus_On_ToggleOpen = 0$/;"	v
+Tlist_Get_Buffer_Filetype	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Buffer_Filetype(bnum)$/;"	f
+Tlist_Get_File_Index	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Get_File_Index(fname)$/;"	f
+Tlist_Get_Filenames	bundle/taglist/plugin/taglist.vim	/^function! Tlist_Get_Filenames()$/;"	f
+Tlist_Get_Tag_Linenum	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_Linenum(fidx, tidx)$/;"	f
+Tlist_Get_Tag_Prototype	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_Prototype(fidx, tidx)$/;"	f
+Tlist_Get_Tag_Prototype_By_Line	bundle/taglist/plugin/taglist.vim	/^function! Tlist_Get_Tag_Prototype_By_Line(...)$/;"	f
+Tlist_Get_Tag_Scope	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_Scope(fidx, tidx)$/;"	f
+Tlist_Get_Tag_SearchPat	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_SearchPat(fidx, tidx)$/;"	f
+Tlist_Get_Tag_Type_By_Tag	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Get_Tag_Type_By_Tag(fidx, tidx)$/;"	f
+Tlist_Get_Tagname_By_Line	bundle/taglist/plugin/taglist.vim	/^function! Tlist_Get_Tagname_By_Line(...)$/;"	f
+Tlist_Highlight_Tag_On_BufEnter	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Highlight_Tag_On_BufEnter = 1$/;"	v
+Tlist_Inc_Winwidth	bundle/taglist/plugin/taglist.vim	/^            let Tlist_Inc_Winwidth = 0$/;"	v
+Tlist_Inc_Winwidth	bundle/taglist/plugin/taglist.vim	/^            let Tlist_Inc_Winwidth = 1$/;"	v
+Tlist_Init_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Init_File(filename, ftype)$/;"	f
+Tlist_Log_Msg	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Log_Msg(msg)$/;"	f
+Tlist_Max_Submenu_Items	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Max_Submenu_Items = 20$/;"	v
+Tlist_Max_Tag_Length	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Max_Tag_Length = 10$/;"	v
+Tlist_Menu_Add_Base_Menu	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Add_Base_Menu()$/;"	f
+Tlist_Menu_File_Refresh	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_File_Refresh(fidx)$/;"	f
+Tlist_Menu_Get_Tag_Type_Cmd	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Get_Tag_Type_Cmd(fidx, ftype, add_ttype_name, ttype_idx)$/;"	f
+Tlist_Menu_Init	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Init()$/;"	f
+Tlist_Menu_Jump_To_Tag	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Jump_To_Tag(tidx)$/;"	f
+Tlist_Menu_Refresh	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Refresh()$/;"	f
+Tlist_Menu_Remove_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Remove_File()$/;"	f
+Tlist_Menu_Update_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Menu_Update_File(clear_menu)$/;"	f
+Tlist_Parse_Tagline	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Parse_Tagline(tag_line)$/;"	f
+Tlist_Post_Close_Cleanup	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Post_Close_Cleanup()$/;"	f
+Tlist_Process_Dir	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Process_Dir(dir_name, pat)$/;"	f
+Tlist_Process_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Process_File(filename, ftype)$/;"	f
+Tlist_Process_File_Always	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Process_File_Always = 0$/;"	v
+Tlist_Process_Filelist	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Process_Filelist(file_names)$/;"	f
+Tlist_Refresh	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Refresh()$/;"	f
+Tlist_Refresh_Folds	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Refresh_Folds()$/;"	f
+Tlist_Remove_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Remove_File(file_idx, user_request)$/;"	f
+Tlist_Session_Load	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Session_Load(...)$/;"	f
+Tlist_Session_Save	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Session_Save(...)$/;"	f
+Tlist_Set_App	bundle/taglist/plugin/taglist.vim	/^function! Tlist_Set_App(name)$/;"	f
+Tlist_Show_Menu	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Show_Menu = 0$/;"	v
+Tlist_Show_One_File	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Show_One_File = 0$/;"	v
+Tlist_Skip_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Skip_File(filename, ftype)$/;"	f
+Tlist_Sort_Type	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Sort_Type = 'order'$/;"	v
+Tlist_Update_Current_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Update_Current_File()$/;"	f
+Tlist_Update_File	bundle/taglist/plugin/taglist.vim	/^function! Tlist_Update_File(filename, ftype)$/;"	f
+Tlist_Update_Remove_List	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Update_Remove_List(filename, add)$/;"	f
+Tlist_Use_Horiz_Window	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Use_Horiz_Window = 0$/;"	v
+Tlist_Use_Right_Window	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Use_Right_Window = 0$/;"	v
+Tlist_Use_SingleClick	bundle/taglist/plugin/taglist.vim	/^        let Tlist_Use_SingleClick = 0$/;"	v
+Tlist_User_Removed_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_User_Removed_File(filename)$/;"	f
+Tlist_Vim_Session_Load	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Vim_Session_Load()$/;"	f
+Tlist_Warning_Msg	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Warning_Msg(msg)$/;"	f
+Tlist_WinHeight	bundle/taglist/plugin/taglist.vim	/^        let Tlist_WinHeight = 10$/;"	v
+Tlist_WinWidth	bundle/taglist/plugin/taglist.vim	/^        let Tlist_WinWidth = 30$/;"	v
+Tlist_Window_Check_Auto_Open	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Check_Auto_Open()$/;"	f
+Tlist_Window_Check_Width	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Check_Width()$/;"	f
+Tlist_Window_Close	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Close()$/;"	f
+Tlist_Window_Create	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Create()$/;"	f
+Tlist_Window_Display_Help	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Display_Help()$/;"	f
+Tlist_Window_Exit_Only_Window	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Exit_Only_Window()$/;"	f
+Tlist_Window_Get_File_Index_By_Linenum	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Get_File_Index_By_Linenum(lnum)$/;"	f
+Tlist_Window_Get_Tag_Index	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Get_Tag_Index(fidx, lnum)$/;"	f
+Tlist_Window_Get_Tag_Type_By_Linenum	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Get_Tag_Type_By_Linenum(fidx, lnum)$/;"	f
+Tlist_Window_Goto_Window	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Goto_Window()$/;"	f
+Tlist_Window_Highlight_Line	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Highlight_Line()$/;"	f
+Tlist_Window_Highlight_Tag	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Highlight_Tag(filename, cur_lnum, cntx, center)$/;"	f
+Tlist_Window_Init	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Init()$/;"	f
+Tlist_Window_Jump_To_Tag	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Jump_To_Tag(win_ctrl)$/;"	f
+Tlist_Window_Mark_File_Window	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Mark_File_Window()$/;"	f
+Tlist_Window_Move_To_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Move_To_File(dir)$/;"	f
+Tlist_Window_Open	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Open()$/;"	f
+Tlist_Window_Open_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Open_File(win_ctrl, filename, tagpat)$/;"	f
+Tlist_Window_Open_File_Fold	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Open_File_Fold(acmd_bufnr)$/;"	f
+Tlist_Window_Refresh	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Refresh()$/;"	f
+Tlist_Window_Refresh_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Refresh_File(filename, ftype)$/;"	f
+Tlist_Window_Remove_File_From_Display	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Remove_File_From_Display(fidx)$/;"	f
+Tlist_Window_Show_Info	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Show_Info()$/;"	f
+Tlist_Window_Toggle	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Toggle()$/;"	f
+Tlist_Window_Toggle_Help_Text	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Toggle_Help_Text()$/;"	f
+Tlist_Window_Update_File	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Update_File()$/;"	f
+Tlist_Window_Update_Line_Offsets	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Update_Line_Offsets(start_idx, increment, offset)$/;"	f
+Tlist_Window_Zoom	bundle/taglist/plugin/taglist.vim	/^function! s:Tlist_Window_Zoom()$/;"	f
+TreeDirNode.AbsoluteTreeRoot	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.AbsoluteTreeRoot()$/;"	f
+TreeDirNode.GetSelected	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.GetSelected()$/;"	f
+TreeDirNode.New	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.New(path)$/;"	f
+TreeDirNode._initChildren	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode._initChildren(silent)$/;"	f
+TreeDirNode._openRecursively2	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode._openRecursively2(forceOpen)$/;"	f
+TreeDirNode.activate	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.activate(forceKeepWinOpen)$/;"	f
+TreeDirNode.addChild	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.addChild(treenode, inOrder)$/;"	f
+TreeDirNode.close	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.close()$/;"	f
+TreeDirNode.closeChildren	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.closeChildren()$/;"	f
+TreeDirNode.createChild	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.createChild(path, inOrder)$/;"	f
+TreeDirNode.findNode	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.findNode(path)$/;"	f
+TreeDirNode.getChild	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.getChild(path)$/;"	f
+TreeDirNode.getChildByIndex	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.getChildByIndex(indx, visible)$/;"	f
+TreeDirNode.getChildCount	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.getChildCount()$/;"	f
+TreeDirNode.getChildIndex	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.getChildIndex(path)$/;"	f
+TreeDirNode.getVisibleChildCount	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.getVisibleChildCount()$/;"	f
+TreeDirNode.getVisibleChildren	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.getVisibleChildren()$/;"	f
+TreeDirNode.hasVisibleChildren	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.hasVisibleChildren()$/;"	f
+TreeDirNode.open	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.open()$/;"	f
+TreeDirNode.openExplorer	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.openExplorer()$/;"	f
+TreeDirNode.openInNewTab	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.openInNewTab(options)$/;"	f
+TreeDirNode.openRecursively	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.openRecursively()$/;"	f
+TreeDirNode.refresh	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.refresh()$/;"	f
+TreeDirNode.removeChild	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.removeChild(treenode)$/;"	f
+TreeDirNode.reveal	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.reveal(path)$/;"	f
+TreeDirNode.sortChildren	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.sortChildren()$/;"	f
+TreeDirNode.toggleOpen	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.toggleOpen()$/;"	f
+TreeDirNode.transplantChild	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeDirNode.transplantChild(newNode)$/;"	f
+TreeFileNode.GetRootForTab	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.GetRootForTab()$/;"	f
+TreeFileNode.GetRootLineNum	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.GetRootLineNum()$/;"	f
+TreeFileNode.GetSelected	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.GetSelected()$/;"	f
+TreeFileNode.New	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.New(path)$/;"	f
+TreeFileNode._renderToString	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode._renderToString(depth, drawText, vertMap, isLastChild)$/;"	f
+TreeFileNode.activate	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.activate(forceKeepWinOpen)$/;"	f
+TreeFileNode.bookmark	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.bookmark(name)$/;"	f
+TreeFileNode.cacheParent	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.cacheParent()$/;"	f
+TreeFileNode.clearBoomarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.clearBoomarks()$/;"	f
+TreeFileNode.copy	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.copy(dest)$/;"	f
+TreeFileNode.delete	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.delete()$/;"	f
+TreeFileNode.displayString	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.displayString()$/;"	f
+TreeFileNode.equals	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.equals(treenode)$/;"	f
+TreeFileNode.findNode	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.findNode(path)$/;"	f
+TreeFileNode.findOpenDirSiblingWithVisibleChildren	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.findOpenDirSiblingWithVisibleChildren(direction)$/;"	f
+TreeFileNode.findSibling	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.findSibling(direction)$/;"	f
+TreeFileNode.getLineNum	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.getLineNum()$/;"	f
+TreeFileNode.isRoot	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.isRoot()$/;"	f
+TreeFileNode.isVisible	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.isVisible()$/;"	f
+TreeFileNode.makeRoot	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.makeRoot()$/;"	f
+TreeFileNode.open	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.open()$/;"	f
+TreeFileNode.openInNewTab	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.openInNewTab(options)$/;"	f
+TreeFileNode.openSplit	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.openSplit()$/;"	f
+TreeFileNode.openVSplit	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.openVSplit()$/;"	f
+TreeFileNode.putCursorHere	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.putCursorHere(isJump, recurseUpward)$/;"	f
+TreeFileNode.refresh	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.refresh()$/;"	f
+TreeFileNode.rename	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.rename(newName)$/;"	f
+TreeFileNode.renderToString	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:TreeFileNode.renderToString()$/;"	f
+Ve	autoload/pathogen.vim	/^command! -bar -bang -range=1 -nargs=1 -complete=customlist,s:Findcomplete Ve       :execute s:find(<count>,'edit<bang>',<q-args>,0)$/;"	c
+Vedit	autoload/pathogen.vim	/^command! -bar -bang -range=1 -nargs=1 -complete=customlist,s:Findcomplete Vedit    :execute s:find(<count>,'edit<bang>',<q-args>,0)$/;"	c
+Vopen	autoload/pathogen.vim	/^command! -bar -bang -range=1 -nargs=1 -complete=customlist,s:Findcomplete Vopen    :execute s:find(<count>,'edit<bang>',<q-args>,1)$/;"	c
+Vpedit	autoload/pathogen.vim	/^command! -bar -bang -range=1 -nargs=1 -complete=customlist,s:Findcomplete Vpedit   :execute s:find(<count>,'pedit',<q-args>,<bang>1)$/;"	c
+Vread	autoload/pathogen.vim	/^command! -bar -bang -range=1 -nargs=1 -complete=customlist,s:Findcomplete Vread    :execute s:find(<count>,'read',<q-args>,<bang>1)$/;"	c
+Vsplit	autoload/pathogen.vim	/^command! -bar -bang -range=1 -nargs=1 -complete=customlist,s:Findcomplete Vsplit   :execute s:find(<count>,'split',<q-args>,<bang>1)$/;"	c
+Vtabedit	autoload/pathogen.vim	/^command! -bar -bang -range=1 -nargs=1 -complete=customlist,s:Findcomplete Vtabedit :execute s:find(<count>,'tabedit',<q-args>,<bang>1)$/;"	c
+Vvsplit	autoload/pathogen.vim	/^command! -bar -bang -range=1 -nargs=1 -complete=customlist,s:Findcomplete Vvsplit  :execute s:find(<count>,'vsplit',<q-args>,<bang>1)$/;"	c
+WINDOW_BUFFER_SIZE_EVENT	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^WINDOW_BUFFER_SIZE_EVENT = 0x0004$/;"	v
+WINDOW_BUFFER_SIZE_RECORD	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^class WINDOW_BUFFER_SIZE_RECORD(Structure):$/;"	c	inherits:Structure
+Zen	bundle/zencoding/plugin/zencoding.vim	/^command! -nargs=1 Zen call zencoding#expandAbbr(4, <q-args>)$/;"	c
+__delitem__	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def __delitem__(self, key):$/;"	m	class:ConqueScreen	file:	access:private
+__getitem__	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def __getitem__(self, key):$/;"	m	class:ConqueScreen	file:	access:private
+__init__	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def __init__(self):$/;"	m	class:ConqueScreen	access:public
+__init__	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    def __init__(self, mem_size, mem_type, mem_key, fixed_length=False, fill_char=' ', serialize=False, encoding='utf-8'):$/;"	m	class:ConqueSoleSharedMemory	access:public
+__len__	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def __len__(self):$/;"	m	class:ConqueScreen	file:	access:private
+__setitem__	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def __setitem__(self, key, value):$/;"	m	class:ConqueScreen	file:	access:private
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("BaseAddress",       c_void_p),$/;"	v	class:MEMORY_BASIC_INFORMATION
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("Char", CHAR_UNION),$/;"	v	class:CHAR_INFO
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("EventType", c_short),$/;"	v	class:INPUT_RECORD
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("KeyEvent", KEY_EVENT_RECORD),$/;"	v	class:INPUT_UNION
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("Left", c_short),$/;"	v	class:SMALL_RECT
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("Length", c_ulong),$/;"	v	class:SECURITY_ATTRIBUTES
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("UnicodeChar", c_wchar),$/;"	v	class:CHAR_UNION
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("X", c_short),$/;"	v	class:COORD
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("bKeyDown", c_byte),$/;"	v	class:KEY_EVENT_RECORD
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("bSetFocus", c_byte)]$/;"	v	class:FOCUS_EVENT_RECORD
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("cb",            c_ulong),$/;"	v	class:STARTUPINFO
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("dwCommandId", c_uint)]$/;"	v	class:MENU_EVENT_RECORD
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("dwMousePosition", COORD),$/;"	v	class:MOUSE_EVENT_RECORD
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("dwSize", COORD),$/;"	v	class:CONSOLE_SCREEN_BUFFER_INFO
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("dwSize", COORD)]$/;"	v	class:WINDOW_BUFFER_SIZE_RECORD
+_fields_	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    _fields_ = [("hProcess",    c_void_p),$/;"	v	class:PROCESS_INFORMATION
+abort	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def abort(self):$/;"	m	class:Conque	access:public
+abort	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def abort(self):$/;"	m	class:ConqueSole	access:public
+absolute_coords	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    absolute_coords = True$/;"	v	class:Conque
+activateNode	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:activateNode(forceKeepWindowOpen)$/;"	f
+add_conceal_color	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def add_conceal_color(self, text, attributes, stats, line_nr):$/;"	m	class:ConqueSole	access:public
+align	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def align(self):$/;"	m	class:ConqueScreen	access:public
+append	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def append(self, value):$/;"	m	class:ConqueScreen	access:public
+apply_color	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def apply_color(self, start, end, line=0):$/;"	m	class:Conque	access:public
+attribute_cache	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    attribute_cache = {}$/;"	v	class:ConqueSole
+attribute_cache	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    attribute_cache = {}$/;"	v	class:ConqueSoleSubprocess
+attributes	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    attributes = []$/;"	v	class:ConqueSoleSubprocess
+auto_read	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def auto_read(self):$/;"	m	class:Conque	access:public
+autowrap	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    autowrap = True$/;"	v	class:Conque
+b:current_syntax	bundle/markdown/syntax/markdown.vim	/^let b:current_syntax = "markdown"$/;"	v
+b:current_syntax	bundle/php/syntax/php.vim	/^let b:current_syntax = "php"$/;"	v
+bindMappings	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:bindMappings()$/;"	f
+bookmarkNode	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:bookmarkNode(...)$/;"	f
+bottom	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    bottom = 24 # relative to top of screen$/;"	v	class:Conque
+bound	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def bound(self, val, min, max):$/;"	m	class:Conque	access:public
+bucket	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    bucket = None$/;"	v	class:ConqueSoleWrapper
+bufInWindows	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:bufInWindows(bnum)$/;"	f
+buffer	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    buffer = None$/;"	v	class:ConqueScreen
+buffer	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    buffer = None$/;"	v	class:ConqueSole
+buffer_height	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    buffer_height = 100$/;"	v	class:ConqueSoleSubprocess
+buffer_redraw_ct	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    buffer_redraw_ct = 1$/;"	v	class:ConqueSole
+buffer_width	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    buffer_width = 160$/;"	v	class:ConqueSoleSubprocess
+c	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    c = 1 # current cursor column$/;"	v	class:Conque
+centerView	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:centerView()$/;"	f
+chCwd	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:chCwd()$/;"	f
+chRoot	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:chRoot()$/;"	f
+change_title	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def change_title(self, key, val):$/;"	m	class:Conque	access:public
+char_width	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    char_width = 1$/;"	v	class:ConqueSoleSharedMemory
+character_set	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    character_set = 'ascii'$/;"	v	class:Conque
+charset_graphics	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def charset_graphics(self):$/;"	m	class:Conque	access:public
+charset_uk	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def charset_uk(self):$/;"	m	class:Conque	access:public
+charset_us	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def charset_us(self):$/;"	m	class:Conque	access:public
+checkForActivate	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:checkForActivate()$/;"	f
+checkForBrowse	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:checkForBrowse(dir)$/;"	f
+check_commands	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def check_commands(self):$/;"	m	class:ConqueSoleSubprocess	access:public
+clear	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def clear(self):$/;"	m	class:ConqueScreen	access:public
+clear	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    def clear(self, start=0):$/;"	m	class:ConqueSoleSharedMemory	access:public
+clearBookmarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:clearBookmarks(bookmarks)$/;"	f
+close	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def close(self):$/;"	m	class:Conque	access:public
+close	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def close(self):$/;"	m	class:ConqueSole	access:public
+close	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    def close(self):$/;"	m	class:ConqueSoleSharedMemory	access:public
+close	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def close(self):$/;"	m	class:ConqueSoleSubprocess	access:public
+close	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def close(self):$/;"	m	class:ConqueSoleWrapper	access:public
+close	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    def close(self):$/;"	m	class:ConqueSubprocess	access:public
+closeChildren	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:closeChildren()$/;"	f
+closeCurrentDir	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:closeCurrentDir()$/;"	f
+closeTree	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:closeTree()$/;"	f
+closeTreeIfOpen	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:closeTreeIfOpen()$/;"	f
+closeTreeIfQuitOnOpen	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:closeTreeIfQuitOnOpen()$/;"	f
+closeTreeWindow	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:closeTreeWindow()$/;"	f
+close_pid	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def close_pid(self, pid):$/;"	m	class:ConqueSoleSubprocess	access:public
+cmd	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^                cmd = shm_command.read()$/;"	v
+cmd	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        cmd = shm_command.read()$/;"	v
+cmd_line	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        cmd_line = " ".join(sys.argv[6:])$/;"	v
+code_page	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        code_page = int(sys.argv[4])$/;"	v
+color_cache	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    color_cache = {}$/;"	v	class:ConqueSole
+color_changes	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    color_changes = {}$/;"	v	class:Conque
+color_conceals	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    color_conceals = {}$/;"	v	class:ConqueSole
+color_history	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    color_history = {}$/;"	v	class:Conque
+color_mode	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    color_mode = None$/;"	v	class:ConqueSole
+color_pruning	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    color_pruning = True$/;"	v	class:Conque
+columns	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    columns = 80 # same as $COLUMNS$/;"	v	class:Conque
+columns	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    columns = 80$/;"	v	class:ConqueSoleWrapper
+compareBookmarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:compareBookmarks(first, second)$/;"	f
+compareNodes	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:compareNodes(n1, n2)$/;"	f
+completeBookmarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:completeBookmarks(A,L,P)$/;"	f
+conque_term#bell	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#bell() " {{{$/;"	f
+conque_term#call_hooks	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#call_hooks(event, t_obj) " {{{$/;"	f
+conque_term#close_all	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#close_all() "{{{$/;"	f
+conque_term#create_terminal_object	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#create_terminal_object(...) " {{{$/;"	f
+conque_term#dependency_check	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#dependency_check() " {{{$/;"	f
+conque_term#exec_file	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#exec_file() "{{{$/;"	f
+conque_term#fail	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#fail(feature) " {{{$/;"	f
+conque_term#find_python_exe	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#find_python_exe() " {{{$/;"	f
+conque_term#get_instance	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#get_instance(...) " {{{$/;"	f
+conque_term#init	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#init() " {{{$/;"	f
+conque_term#init_conceal_color	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#init_conceal_color() " {{{$/;"	f
+conque_term#key_press	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#key_press() "{{{$/;"	f
+conque_term#load_python	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#load_python() " {{{$/;"	f
+conque_term#on_blur	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#on_blur() " {{{$/;"	f
+conque_term#on_focus	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#on_focus(...) " {{{$/;"	f
+conque_term#open	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#open(...) "{{{$/;"	f
+conque_term#read_all	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#read_all(insert_mode) "{{{$/;"	f
+conque_term#register_function	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#register_function(event, function_name) " {{{$/;"	f
+conque_term#resume_session	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#resume_session() " {{{$/;"	f
+conque_term#send_file	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#send_file() "{{{$/;"	f
+conque_term#send_selected	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#send_selected(type) "{{{$/;"	f
+conque_term#set_buffer_settings	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#set_buffer_settings(command, vim_startup_commands) "{{{$/;"	f
+conque_term#set_mappings	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#set_mappings(action) "{{{$/;"	f
+conque_term#subprocess	bundle/ConqueTerm/autoload/conque_term.vim	/^function! conque_term#subprocess(command) " {{{$/;"	f
+console_height	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        console_height = int(sys.argv[3])$/;"	v
+console_width	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        console_width = int(sys.argv[2])$/;"	v
+create	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    def create(self, access='write'):$/;"	m	class:ConqueSoleSharedMemory	access:public
+createTreeWin	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:createTreeWin()$/;"	f
+csi_add_spaces	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_add_spaces(self, csi):$/;"	m	class:Conque	access:public
+csi_clear_line	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_clear_line(self, csi):$/;"	m	class:Conque	access:public
+csi_clear_screen	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_clear_screen(self, csi):$/;"	m	class:Conque	access:public
+csi_cursor	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_cursor(self, csi):$/;"	m	class:Conque	access:public
+csi_cursor_down	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_cursor_down(self, csi):$/;"	m	class:Conque	access:public
+csi_cursor_left	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_cursor_left(self, csi):$/;"	m	class:Conque	access:public
+csi_cursor_right	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_cursor_right(self, csi):$/;"	m	class:Conque	access:public
+csi_cursor_to_column	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_cursor_to_column(self, csi):$/;"	m	class:Conque	access:public
+csi_cursor_up	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_cursor_up(self, csi):$/;"	m	class:Conque	access:public
+csi_delete_chars	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_delete_chars(self, csi):$/;"	m	class:Conque	access:public
+csi_font	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_font(self, csi):$/;"	m	class:Conque	access:public
+csi_reset	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_reset(self, csi):$/;"	m	class:Conque	access:public
+csi_set	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_set(self, csi):$/;"	m	class:Conque	access:public
+csi_set_coords	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_set_coords(self, csi):$/;"	m	class:Conque	access:public
+csi_tab_clear	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def csi_tab_clear(self, csi):$/;"	m	class:Conque	access:public
+ctl_bel	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_bel(self):$/;"	m	class:Conque	access:public
+ctl_bs	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_bs(self):$/;"	m	class:Conque	access:public
+ctl_cr	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_cr(self):$/;"	m	class:Conque	access:public
+ctl_nl	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_nl(self):$/;"	m	class:Conque	access:public
+ctl_si	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_si(self):$/;"	m	class:Conque	access:public
+ctl_so	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_so(self):$/;"	m	class:Conque	access:public
+ctl_soh	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_soh(self):$/;"	m	class:Conque	access:public
+ctl_stx	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_stx(self):$/;"	m	class:Conque	access:public
+ctl_tab	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def ctl_tab(self):$/;"	m	class:Conque	access:public
+cursor_col	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    cursor_col = 0$/;"	v	class:ConqueSoleSubprocess
+cursor_line	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    cursor_line = 0$/;"	v	class:ConqueSoleSubprocess
+cursor_set	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    cursor_set = False$/;"	v	class:Conque
+data	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    data = []$/;"	v	class:ConqueSoleSubprocess
+default_attribute	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    default_attribute = 7$/;"	v	class:ConqueSoleSubprocess
+deleteBookmark	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:deleteBookmark()$/;"	f
+did_php_syn_inits	bundle/php/syntax/php.vim	/^    let did_php_syn_inits = 1$/;"	v
+displayHelp	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:displayHelp()$/;"	f
+do_color	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def do_color(self, start=0, end=0, attributes='', stats=None):$/;"	m	class:ConqueSole	access:public
+dumpHelp	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:dumpHelp()$/;"	f
+echo	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! s:echo(msg)$/;"	f
+echo	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:echo(msg)$/;"	f
+echoError	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:echoError(msg)$/;"	f
+echoWarning	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! s:echoWarning(msg)$/;"	f
+echoWarning	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:echoWarning(msg)$/;"	f
+enable_colors	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    enable_colors = True$/;"	v	class:Conque
+encoding	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    encoding = None$/;"	v	class:ConqueSole
+encoding	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    encoding = 'utf-8'$/;"	v	class:ConqueSoleSharedMemory
+esc_next_line	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def esc_next_line(self):$/;"	m	class:Conque	access:public
+esc_scroll_down	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def esc_scroll_down(self):$/;"	m	class:Conque	access:public
+esc_scroll_up	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def esc_scroll_up(self):$/;"	m	class:Conque	access:public
+esc_set_tab	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def esc_set_tab(self):$/;"	m	class:Conque	access:public
+exec	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:exec(cmd)$/;"	f
+exec_highlight	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def exec_highlight(self, buffer_line, start, end, highlight):$/;"	m	class:Conque	access:public
+fast_mode	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        fast_mode = int(sys.argv[5])$/;"	v
+fast_mode	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    fast_mode = 0$/;"	v	class:ConqueSoleSubprocess
+fd	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    fd = None$/;"	v	class:ConqueSubprocess
+find	autoload/pathogen.vim	/^function! s:find(count,cmd,file,lcd) " {{{1$/;"	f
+findAndRevealPath	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:findAndRevealPath()$/;"	f
+firstUsableWindow	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:firstUsableWindow()$/;"	f
+fixed_length	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    fixed_length = False$/;"	v	class:ConqueSoleSharedMemory
+g:ConqueTerm_CWInsert	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_CWInsert = 0$/;"	v
+g:ConqueTerm_CloseOnEnd	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_CloseOnEnd = 0$/;"	v
+g:ConqueTerm_CodePage	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_CodePage = 0$/;"	v
+g:ConqueTerm_Color	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_Color = 1$/;"	v
+g:ConqueTerm_ColorMode	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_ColorMode = ''$/;"	v
+g:ConqueTerm_EscKey	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_EscKey = '<Esc>'$/;"	v
+g:ConqueTerm_ExecFileKey	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_ExecFileKey = '<F11>'$/;"	v
+g:ConqueTerm_FastMode	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_FastMode = 0$/;"	v
+g:ConqueTerm_Idx	bundle/ConqueTerm/autoload/conque_term.vim	/^let g:ConqueTerm_Idx = 0$/;"	v
+g:ConqueTerm_Idx	bundle/ConqueTerm/plugin/conque_term.vim	/^let g:ConqueTerm_Idx = 0$/;"	v
+g:ConqueTerm_InsertCharPre	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_InsertCharPre = 0$/;"	v
+g:ConqueTerm_InsertOnEnter	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_InsertOnEnter = 0$/;"	v
+g:ConqueTerm_Loaded	bundle/ConqueTerm/plugin/conque_term.vim	/^let g:ConqueTerm_Loaded = 1$/;"	v
+g:ConqueTerm_PromptRegex	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_PromptRegex = '^\\w\\+@[0-9A-Za-z_.-]\\+:[0-9A-Za-z_.\/\\~,:-]\\+\\$'$/;"	v
+g:ConqueTerm_PyExe	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_PyExe = ''$/;"	v
+g:ConqueTerm_PyVersion	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_PyVersion = 2$/;"	v
+g:ConqueTerm_ReadUnfocused	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_ReadUnfocused = 0$/;"	v
+g:ConqueTerm_SendFileKey	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_SendFileKey = '<F10>'$/;"	v
+g:ConqueTerm_SendFunctionKeys	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_SendFunctionKeys = 0$/;"	v
+g:ConqueTerm_SendVisKey	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_SendVisKey = '<F9>'$/;"	v
+g:ConqueTerm_SessionSupport	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_SessionSupport = 0$/;"	v
+g:ConqueTerm_StartMessages	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_StartMessages = 1$/;"	v
+g:ConqueTerm_Syntax	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_Syntax = 'conque_term'$/;"	v
+g:ConqueTerm_TERM	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_TERM =  'vt100'$/;"	v
+g:ConqueTerm_Terminals	bundle/ConqueTerm/autoload/conque_term.vim	/^let g:ConqueTerm_Terminals = {}$/;"	v
+g:ConqueTerm_TerminalsString	bundle/ConqueTerm/autoload/conque_term.vim	/^let g:ConqueTerm_TerminalsString = ''$/;"	v
+g:ConqueTerm_ToggleKey	bundle/ConqueTerm/plugin/conque_term.vim	/^    let g:ConqueTerm_ToggleKey = '<F8>'$/;"	v
+g:ConqueTerm_Version	bundle/ConqueTerm/plugin/conque_term.vim	/^let g:ConqueTerm_Version = 210$/;"	v
+g:NERDTreeBookmark	bundle/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeBookmark = s:Bookmark$/;"	v
+g:NERDTreeDirNode	bundle/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeDirNode = s:TreeDirNode$/;"	v
+g:NERDTreeFileNode	bundle/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeFileNode = s:TreeFileNode$/;"	v
+g:NERDTreeIgnore	bundle/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeIgnore = ['\\~$']$/;"	v
+g:NERDTreePath	bundle/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreePath = s:Path$/;"	v
+g:NERDTreeSortOrder	bundle/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeSortOrder = ['\\\/$', '*', '\\.swp$',  '\\.bak$', '\\~$']$/;"	v
+g:NERDTreeStatusline	bundle/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeStatusline = "%{exists('b:NERDTreeRoot')?b:NERDTreeRoot.path.str():''}"$/;"	v
+g:loaded_nerdtree_exec_menuitem	bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim	/^let g:loaded_nerdtree_exec_menuitem = 1$/;"	v
+g:loaded_nerdtree_fs_menu	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^let g:loaded_nerdtree_fs_menu = 1$/;"	v
+g:loaded_pathogen	autoload/pathogen.vim	/^let g:loaded_pathogen = 1$/;"	v
+g:loaded_zencoding_vim	bundle/zencoding/plugin/zencoding.vim	/^let g:loaded_zencoding_vim = 1$/;"	v
+g:user_zen_leader_key	bundle/zencoding/plugin/zencoding.vim	/^  let g:user_zen_leader_key = '<c-y>'$/;"	v
+g:zencoding_curl_command	bundle/zencoding/plugin/zencoding.vim	/^  let g:zencoding_curl_command = 'curl -s -L -A Mozilla\/5.0'$/;"	v
+g:zencoding_debug	bundle/zencoding/plugin/zencoding.vim	/^  let g:zencoding_debug = 0$/;"	v
+getPath	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:getPath(ln)$/;"	f
+getTreeWinNum	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:getTreeWinNum()$/;"	f
+get_buffer_info	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def get_buffer_info(self):$/;"	m	class:ConqueSoleSubprocess	access:public
+get_buffer_line	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def get_buffer_line(self, line):$/;"	m	class:Conque	access:public
+get_buffer_line	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def get_buffer_line(self, line):$/;"	m	class:ConqueScreen	access:public
+get_buffer_line	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def get_buffer_line(self, line):$/;"	m	class:ConqueSole	access:public
+get_new_output	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def get_new_output(self, lines, update_top, stats):$/;"	m	class:ConqueSole	access:public
+get_real_idx	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def get_real_idx(self, line):$/;"	m	class:ConqueScreen	access:public
+get_screen_text	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def get_screen_text(self):$/;"	m	class:ConqueSoleSubprocess	access:public
+get_stats	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def get_stats(self):$/;"	m	class:ConqueSoleWrapper	access:public
+get_top	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def get_top(self):$/;"	m	class:ConqueScreen	access:public
+handle	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    handle = None$/;"	v	class:ConqueSoleSubprocess
+handle	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    handle = None$/;"	v	class:ConqueSoleWrapper
+handleMiddleMouse	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:handleMiddleMouse()$/;"	f
+hash_screen_alignment_test	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def hash_screen_alignment_test(self):$/;"	m	class:Conque	access:public
+highlight_groups	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    highlight_groups = {}$/;"	v	class:Conque
+idle	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def idle(self):$/;"	m	class:Conque	access:public
+idle	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def idle(self):$/;"	m	class:ConqueSole	access:public
+idle	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def idle(self):$/;"	m	class:ConqueSoleWrapper	access:public
+idle_sleep_time	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        idle_sleep_time = 0.10$/;"	v
+indentLevelFor	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:indentLevelFor(line)$/;"	f
+initNerdTree	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:initNerdTree(name)$/;"	f
+initNerdTreeInPlace	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:initNerdTreeInPlace(dir)$/;"	f
+initNerdTreeMirror	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:initNerdTreeMirror()$/;"	f
+initVariable	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:initVariable(var, value)$/;"	f
+init_shared_memory	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def init_shared_memory(self, mem_key):$/;"	m	class:ConqueSoleSubprocess	access:public
+init_shared_memory	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def init_shared_memory(self, mem_key):$/;"	m	class:ConqueSoleWrapper	access:public
+init_tabstops	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def init_tabstops(self):$/;"	m	class:Conque	access:public
+input_buffer	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    input_buffer = []$/;"	v	class:Conque
+insert	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def insert(self, line, value):$/;"	m	class:ConqueScreen	access:public
+insert_enter	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def insert_enter(self):$/;"	m	class:Conque	access:public
+install_plugin	bundle/zencoding/plugin/zencoding.vim	/^function! s:install_plugin()$/;"	f
+isTreeOpen	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:isTreeOpen()$/;"	f
+isWindowUsable	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:isWindowUsable(winnumber)$/;"	f
+is_alive	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def is_alive(self):$/;"	m	class:ConqueSoleSubprocess	access:public
+is_alive	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    is_alive = True$/;"	v	class:ConqueSoleSubprocess
+is_alive	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def is_alive(self):$/;"	m	class:ConqueSoleWrapper	access:public
+is_alive	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    def is_alive(self):$/;"	m	class:ConqueSubprocess	access:public
+is_idle	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^                        is_idle = False$/;"	v
+is_idle	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^                        is_idle = True$/;"	v
+is_idle	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^                is_idle = True$/;"	v
+is_idle	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        is_idle = False$/;"	v
+jumpToChild	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:jumpToChild(direction)$/;"	f
+jumpToFirstChild	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:jumpToFirstChild()$/;"	f
+jumpToLastChild	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:jumpToLastChild()$/;"	f
+jumpToParent	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:jumpToParent()$/;"	f
+jumpToRoot	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:jumpToRoot()$/;"	f
+jumpToSibling	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:jumpToSibling(forward)$/;"	f
+l	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    l = 1 # current cursor line$/;"	v	class:Conque
+line_offset	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    line_offset = 0$/;"	v	class:ConqueSoleSubprocess
+lines	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    lines = 24 # same as $LINES$/;"	v	class:Conque
+lines	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    lines = 24$/;"	v	class:ConqueSoleWrapper
+loaded_nerd_tree	bundle/nerdtree/plugin/NERD_tree.vim	/^let loaded_nerd_tree = 1$/;"	v
+loaded_taglist	bundle/taglist/plugin/taglist.vim	/^            let loaded_taglist = 'no'$/;"	v
+loaded_taglist	bundle/taglist/plugin/taglist.vim	/^        let loaded_taglist = 'no'$/;"	v
+loaded_taglist	bundle/taglist/plugin/taglist.vim	/^    let loaded_taglist = 'fast_load_done'$/;"	v
+loaded_taglist	bundle/taglist/plugin/taglist.vim	/^let loaded_taglist = 'available'$/;"	v
+loops	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        loops = 0$/;"	v
+main_syntax	bundle/php/syntax/php.vim	/^  let main_syntax = 'php'$/;"	v
+max_loops	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        max_loops = 0$/;"	v
+mem_key	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        mem_key = sys.argv[1]$/;"	v
+mem_key	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    mem_key = None$/;"	v	class:ConqueSoleSharedMemory
+mem_redraw_ct	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    mem_redraw_ct = 0$/;"	v	class:ConqueSoleSubprocess
+mem_size	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    mem_size = None$/;"	v	class:ConqueSoleSharedMemory
+mem_type	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    mem_type = None$/;"	v	class:ConqueSoleSharedMemory
+mergeConfig	bundle/zencoding/autoload/zencoding.vim	/^function! s:mergeConfig(lhs, rhs)$/;"	f
+nextBufferName	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:nextBufferName()$/;"	f
+offset	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    offset = 0$/;"	v	class:ConqueSole
+open	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def open(self):$/;"	m	class:Conque	access:public
+open	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def open(self):$/;"	m	class:ConqueSole	access:public
+open	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def open(self, cmd, mem_key, options={}):$/;"	m	class:ConqueSoleSubprocess	access:public
+open	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def open(self, cmd, lines, columns, python_exe='python.exe', communicator_py='conque_sole_communicator.py', options={}):$/;"	m	class:ConqueSoleWrapper	access:public
+open	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    def open(self, command, env={}):$/;"	m	class:ConqueSubprocess	access:public
+openBookmark	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:openBookmark(name)$/;"	f
+openEntrySplit	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:openEntrySplit(vertical, forceKeepWindowOpen)$/;"	f
+openExplorer	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:openExplorer()$/;"	f
+openInNewTab	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:openInNewTab(stayCurrentTab)$/;"	f
+openNodeRecursively	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:openNodeRecursively()$/;"	f
+options	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        options = {'LINES': console_height, 'COLUMNS': console_width, 'CODE_PAGE': code_page, 'FAST_MODE': fast_mode}$/;"	v
+output_blocks	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    output_blocks = 1$/;"	v	class:ConqueSoleSubprocess
+parse_csi	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def parse_csi(self, s):$/;"	m	class:Conque	access:public
+pathogen#cycle_filetype	autoload/pathogen.vim	/^function! pathogen#cycle_filetype() " {{{1$/;"	f
+pathogen#execute	autoload/pathogen.vim	/^function! pathogen#execute(...) abort " {{{1$/;"	f
+pathogen#fnameescape	autoload/pathogen.vim	/^function! pathogen#fnameescape(string) abort " {{{1$/;"	f
+pathogen#glob	autoload/pathogen.vim	/^function! pathogen#glob(pattern) abort " {{{1$/;"	f
+pathogen#glob_directories	autoload/pathogen.vim	/^function! pathogen#glob_directories(pattern) abort " {{{1$/;"	f
+pathogen#helptags	autoload/pathogen.vim	/^function! pathogen#helptags() abort " {{{1$/;"	f
+pathogen#incubate	autoload/pathogen.vim	/^function! pathogen#incubate(...) abort " {{{1$/;"	f
+pathogen#infect	autoload/pathogen.vim	/^function! pathogen#infect(...) abort " {{{1$/;"	f
+pathogen#is_disabled	autoload/pathogen.vim	/^function! pathogen#is_disabled(path) " {{{1$/;"	f
+pathogen#join	autoload/pathogen.vim	/^function! pathogen#join(...) abort " {{{1$/;"	f
+pathogen#legacyjoin	autoload/pathogen.vim	/^function! pathogen#legacyjoin(...) abort " {{{1$/;"	f
+pathogen#runtime_append_all_bundles	autoload/pathogen.vim	/^function! pathogen#runtime_append_all_bundles(...) abort " {{{1$/;"	f
+pathogen#runtime_findfile	autoload/pathogen.vim	/^function! pathogen#runtime_findfile(file,count) abort "{{{1$/;"	f
+pathogen#runtime_prepend_subdirectories	autoload/pathogen.vim	/^function! pathogen#runtime_prepend_subdirectories(path) " {{{1$/;"	f
+pathogen#separator	autoload/pathogen.vim	/^function! pathogen#separator() abort " {{{1$/;"	f
+pathogen#split	autoload/pathogen.vim	/^function! pathogen#split(path) abort " {{{1$/;"	f
+pathogen#surround	autoload/pathogen.vim	/^function! pathogen#surround(path) abort " {{{1$/;"	f
+pathogen#uniq	autoload/pathogen.vim	/^function! pathogen#uniq(list) abort " {{{1$/;"	f
+php_sync_method	bundle/php/syntax/php.vim	/^    let php_sync_method=-1$/;"	v
+php_sync_method	bundle/php/syntax/php.vim	/^    let php_sync_method=php_minlines$/;"	v
+pid	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    pid = None$/;"	v	class:ConqueSoleSubprocess
+pid	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    pid = None$/;"	v	class:ConqueSoleWrapper
+pid	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    pid = 0$/;"	v	class:ConqueSubprocess
+plain_text	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def plain_text(self, input):$/;"	m	class:Conque	access:public
+plain_text	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def plain_text(self, line_nr, text, attributes, stats):$/;"	m	class:ConqueSole	access:public
+pregPattern_D	bundle/php/syntax/php.vim	/^      function! s:pregPattern_D(open, close)$/;"	f
+pregPattern_S	bundle/php/syntax/php.vim	/^      function! s:pregPattern_S(open, close)$/;"	f
+previewNode	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:previewNode(openNewWin)$/;"	f
+proc	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    proc = None$/;"	v	class:Conque
+proc	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        proc = ConqueSoleSubprocess()$/;"	v
+proc	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    proc = None$/;"	v	class:ConqueSoleWrapper
+promptToDelBuffer	bundle/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! s:promptToDelBuffer(bufnum, msg)$/;"	f
+promptToDelBuffer	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:promptToDelBuffer(bufnum, msg)$/;"	f
+prune_colors	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def prune_colors(self):$/;"	m	class:Conque	access:public
+putCursorInTreeWin	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:putCursorInTreeWin()$/;"	f
+putCursorOnBookmarkTable	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:putCursorOnBookmarkTable()$/;"	f
+read	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def read(self, timeout=1, set_cursor=True, return_output=False, update_buffer=True):$/;"	m	class:Conque	access:public
+read	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def read(self, timeout=1, set_cursor=True, return_output=False, update_buffer=True):$/;"	m	class:ConqueSole	access:public
+read	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    def read(self, chars=1, start=0):$/;"	m	class:ConqueSoleSharedMemory	access:public
+read	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def read(self):$/;"	m	class:ConqueSoleSubprocess	access:public
+read	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def read(self, start_line, num_lines, timeout=0):$/;"	m	class:ConqueSoleWrapper	access:public
+read	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    def read(self, timeout=1):$/;"	m	class:ConqueSubprocess	access:public
+read_count	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    read_count = 0$/;"	v	class:Conque
+refreshCurrent	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:refreshCurrent()$/;"	f
+refreshRoot	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:refreshRoot()$/;"	f
+renderBookmarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:renderBookmarks()$/;"	f
+renderView	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:renderView()$/;"	f
+renderViewSavingPosition	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:renderViewSavingPosition()$/;"	f
+res	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        res = proc.open(cmd_line, mem_key, options)$/;"	v
+reset_console	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def reset_console(self, buf_info, add_block=True):$/;"	m	class:ConqueSoleSubprocess	access:public
+reset_size	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def reset_size(self, line):$/;"	m	class:ConqueScreen	access:public
+restoreScreenState	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:restoreScreenState()$/;"	f
+resume	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def resume(self):$/;"	m	class:Conque	access:public
+resume	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def resume(self):$/;"	m	class:ConqueSole	access:public
+resume	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def resume(self):$/;"	m	class:ConqueSoleWrapper	access:public
+revealBookmark	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:revealBookmark(name)$/;"	f
+s:Bookmark	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:Bookmark = {}$/;"	v
+s:KeyMap	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:KeyMap = {}$/;"	v
+s:MenuController	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:MenuController = {}$/;"	v
+s:MenuItem	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:MenuItem = {}$/;"	v
+s:NERDTreeBufName	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:NERDTreeBufName = 'NERD_tree_'$/;"	v
+s:NERDTreeSortStarIndex	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:NERDTreeSortStarIndex = index(g:NERDTreeSortOrder, '*')$/;"	v
+s:NERD_tree_version	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:NERD_tree_version = '4.2.0'$/;"	v
+s:Path	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:Path = {}$/;"	v
+s:Tlist_Skip_Refresh	bundle/taglist/plugin/taglist.vim	/^let s:Tlist_Skip_Refresh = 0$/;"	v
+s:TreeDirNode	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:TreeDirNode = copy(s:TreeFileNode)$/;"	v
+s:TreeFileNode	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:TreeFileNode = {}$/;"	v
+s:alt_arrays	bundle/php/syntax/php.vim	/^  let s:alt_arrays = (s:strict_blocks ? s:ChooseValue('php_alt_arrays', 1) : 0)$/;"	v
+s:alt_blocks	bundle/php/syntax/php.vim	/^  let s:alt_blocks = (s:strict_blocks && s:ChooseValue('php_alt_blocks', 1))$/;"	v
+s:alt_comparisons	bundle/php/syntax/php.vim	/^  let s:alt_comparisons = s:ChooseValue('php_alt_comparisons', s:ChooseValue('php_oldStyle', 1))$/;"	v
+s:alt_control_parents	bundle/php/syntax/php.vim	/^  let s:alt_control_parents = s:ChooseValue('php_alt_construct_parents', 0)$/;"	v
+s:alt_properties	bundle/php/syntax/php.vim	/^  let s:alt_properties = (s:smart_members && s:ChooseValue('php_alt_properties', 0))$/;"	v
+s:alt_refs	bundle/php/syntax/php.vim	/^  let s:alt_refs = s:ChooseValue('php_alt_assignByReference', 1)$/;"	v
+s:asp_tags	bundle/php/syntax/php.vim	/^  let s:asp_tags = s:ChooseValue('php_asp_tags', 0)$/;"	v
+s:command	bundle/php/syntax/php.vim	/^      let s:command = 'syntax match pregClassExcStart_<QUOTE> \/\\[\\^\\]\/ contained display'$/;"	v
+s:command	bundle/php/syntax/php.vim	/^      let s:command = 'syntax match pregClassIncStart_<QUOTE> \/\\[\\]\/ contained display'$/;"	v
+s:command	bundle/php/syntax/php.vim	/^      let s:command = 'syntax region pregClass<TYPE> start=\/\\ze.\/ matchgroup=pregClassParent end=\/\\]\/'$/;"	v
+s:cpo_save	bundle/taglist/plugin/taglist.vim	/^    let s:cpo_save = &cpo$/;"	v
+s:done_bundles	autoload/pathogen.vim	/^let s:done_bundles = ''$/;"	v
+s:endEarly	bundle/php/syntax/php.vim	/^    let s:endEarly = s:nested_functions ? '' : 'matchgroup=Error end=\/\\%(^\\|\\s\\)function\\>\/'$/;"	v
+s:escape_chars	bundle/nerdtree/plugin/NERD_tree.vim	/^    let s:escape_chars =  " \\\\`\\|\\"#%&,?()\\*^<>[]"$/;"	v
+s:escape_chars	bundle/nerdtree/plugin/NERD_tree.vim	/^    let s:escape_chars =  " `\\|\\"#%&,?()\\*^<>"$/;"	v
+s:exists	bundle/zencoding/autoload/zencoding/lang.vim	/^let s:exists = {}$/;"	v
+s:foldHere	bundle/php/syntax/php.vim	/^    let s:foldHere = s:folding ? 'fold' : ''$/;"	v
+s:fold_arrays	bundle/php/syntax/php.vim	/^  let s:fold_arrays = (s:folding && s:ChooseValue('php_fold_arrays', 0))$/;"	v
+s:fold_heredoc	bundle/php/syntax/php.vim	/^  let s:fold_heredoc = (s:folding && s:ChooseValue('php_fold_heredoc', 0))$/;"	v
+s:fold_manual	bundle/php/syntax/php.vim	/^  let s:fold_manual = s:large_file ? 0 : s:ChooseValue('php_fold_manual', s:folding ? 1 : 0)$/;"	v
+s:folding	bundle/php/syntax/php.vim	/^  let s:folding = s:large_file ? 0 : s:ChooseValue('php_folding', 0)$/;"	v
+s:hooks	bundle/ConqueTerm/autoload/conque_term.vim	/^let s:hooks = { 'after_startup': [], 'buffer_enter': [], 'buffer_leave': [], 'after_keymap': [] }$/;"	v
+s:initialized	bundle/ConqueTerm/autoload/conque_term.vim	/^let s:initialized = 0$/;"	v
+s:is_elflord	bundle/php/syntax/php.vim	/^  let s:is_elflord = (exists('g:colors_name') && g:colors_name == 'elflord')$/;"	v
+s:large_file	bundle/php/syntax/php.vim	/^  let s:large_file = (s:large_file_limit == 0) ? 0 : (line('$') >= s:large_file_limit)$/;"	v
+s:large_file_limit	bundle/php/syntax/php.vim	/^  let s:large_file_limit = s:ChooseValue('php_large_file', 3000)$/;"	v
+s:long_tags	bundle/php/syntax/php.vim	/^  let s:long_tags = !s:ChooseValue('php_short_tags', !s:ChooseValue('php_noShortTags', 0))$/;"	v
+s:menu_char_prefix	bundle/taglist/plugin/taglist.vim	/^let s:menu_char_prefix =$/;"	v
+s:mx	bundle/zencoding/autoload/zencoding/lang/html.vim	/^let s:mx = '\\([+>]\\|[<^]\\+\\)\\{-}\\s*'$/;"	v
+s:nested_functions	bundle/php/syntax/php.vim	/^  let s:nested_functions = s:ChooseValue('php_nested_functions', 1)$/;"	v
+s:next_buffer_number	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:next_buffer_number = 1$/;"	v
+s:no_empty_construct	bundle/php/syntax/php.vim	/^  let s:no_empty_construct = (s:strict_blocks && s:ChooseValue('php_empty_construct_error', 1))$/;"	v
+s:old_cpo	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:old_cpo = &cpo$/;"	v
+s:parent_error_close	bundle/php/syntax/php.vim	/^  let s:parent_error_close = (s:strict_blocks && s:ChooseValue('php_parent_error_close', 1))$/;"	v
+s:running_windows	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:running_windows = has("win16") || has("win32") || has("win64")$/;"	v
+s:save_cpo	bundle/zencoding/autoload/zencoding.vim	/^let s:save_cpo = &cpo$/;"	v
+s:save_cpo	bundle/zencoding/plugin/zencoding.vim	/^let s:save_cpo = &cpo$/;"	v
+s:save_updatetime	bundle/ConqueTerm/autoload/conque_term.vim	/^let s:save_updatetime = &updatetime$/;"	v
+s:saved_terminals	bundle/ConqueTerm/autoload/conque_term.vim	/^        let s:saved_terminals = {}$/;"	v
+s:scriptdir	bundle/ConqueTerm/autoload/conque_term.vim	/^let s:scriptdir = expand("<sfile>:h") . '\/'$/;"	v
+s:scriptdirpy	bundle/ConqueTerm/autoload/conque_term.vim	/^let s:scriptdirpy = expand("<sfile>:h") . '\/conque_term\/'$/;"	v
+s:show_baselib	bundle/php/syntax/php.vim	/^  let s:show_baselib = s:ChooseValue('php_baselib', 0)$/;"	v
+s:show_html_in_strings	bundle/php/syntax/php.vim	/^  let s:show_html_in_strings = s:ChooseValue('php_htmlInStrings', 0)$/;"	v
+s:show_pcre	bundle/php/syntax/php.vim	/^  let s:show_pcre = s:large_file ? 0 : s:ChooseValue('php_show_pcre', s:ChooseValue('php_show_preg', 1))$/;"	v
+s:show_quotes	bundle/php/syntax/php.vim	/^  let s:show_quotes = s:ChooseValue('php_highlight_quotes', 0)$/;"	v
+s:show_semicolon	bundle/php/syntax/php.vim	/^  let s:show_semicolon = s:ChooseValue('php_show_semicolon', 1)$/;"	v
+s:show_semicolon_error	bundle/php/syntax/php.vim	/^  let s:show_semicolon_error = (s:show_semicolon && s:ChooseValue('php_show_semicolon_error', 1))$/;"	v
+s:show_sql	bundle/php/syntax/php.vim	/^  let s:show_sql = s:ChooseValue('php_sql_query', 0)$/;"	v
+s:smart_members	bundle/php/syntax/php.vim	/^  let s:smart_members = s:large_file ? 0 : s:ChooseValue('php_smart_members', 0)$/;"	v
+s:smart_semicolon	bundle/php/syntax/php.vim	/^  let s:smart_semicolon = s:large_file ? 0 : (s:show_semicolon && s:ChooseValue('php_smart_semicolon', 1))$/;"	v
+s:special_functions	bundle/php/syntax/php.vim	/^  let s:special_functions = s:ChooseValue('php_special_functions', 1)$/;"	v
+s:special_vars	bundle/php/syntax/php.vim	/^  let s:special_vars = s:ChooseValue('php_special_vars', s:ChooseValue('php_special_variables', s:ChooseValue('php_oldStyle', 1)))$/;"	v
+s:strict_blocks	bundle/php/syntax/php.vim	/^  let s:strict_blocks = s:large_file ? 0 : s:ChooseValue('php_strict_blocks', 1)$/;"	v
+s:sync	bundle/php/syntax/php.vim	/^  let s:sync = s:ChooseValue('php_sync_method', -1)$/;"	v
+s:term_obj	bundle/ConqueTerm/autoload/conque_term.vim	/^let s:term_obj = {'idx': 1, 'var': '', 'is_buffer': 1, 'active': 1, 'buffer_name': '', 'command': ''}$/;"	v
+s:tlist_app_name	bundle/taglist/plugin/taglist.vim	/^let s:tlist_app_name = "none"$/;"	v
+s:tlist_brief_help	bundle/taglist/plugin/taglist.vim	/^let s:tlist_brief_help = 1$/;"	v
+s:tlist_cur_file_idx	bundle/taglist/plugin/taglist.vim	/^let s:tlist_cur_file_idx = -1$/;"	v
+s:tlist_debug	bundle/taglist/plugin/taglist.vim	/^let s:tlist_debug = 0$/;"	v
+s:tlist_debug_file	bundle/taglist/plugin/taglist.vim	/^let s:tlist_debug_file = ''$/;"	v
+s:tlist_def_ant_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_ant_settings = 'ant;p:projects;t:targets'$/;"	v
+s:tlist_def_asm_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_asm_settings = 'asm;d:define;l:label;m:macro;t:type'$/;"	v
+s:tlist_def_aspperl_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_aspperl_settings =$/;"	v
+s:tlist_def_aspvbs_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_aspvbs_settings =$/;"	v
+s:tlist_def_awk_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_awk_settings = 'awk;f:function'$/;"	v
+s:tlist_def_basic_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_basic_settings =$/;"	v
+s:tlist_def_beta_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_beta_settings = 'beta;f:fragment;s:slot;v:pattern'$/;"	v
+s:tlist_def_c_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_c_settings = 'c;d:macro;g:enum;s:struct;u:union;t:typedef;' .$/;"	v
+s:tlist_def_cobol_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_cobol_settings = 'cobol;d:data;f:file;g:group;p:paragraph;' .$/;"	v
+s:tlist_def_cpp_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_cpp_settings = 'c++;n:namespace;v:variable;d:macro;t:typedef;' .$/;"	v
+s:tlist_def_cs_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_cs_settings = 'c#;d:macro;t:typedef;n:namespace;c:class;' .$/;"	v
+s:tlist_def_csh_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_csh_settings = 'sh;f:function'$/;"	v
+s:tlist_def_d_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_d_settings = 'c++;n:namespace;v:variable;t:typedef;' .$/;"	v
+s:tlist_def_dosbatch_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_dosbatch_settings = 'dosbatch;l:labels;v:variables'$/;"	v
+s:tlist_def_eiffel_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_eiffel_settings = 'eiffel;c:class;f:feature'$/;"	v
+s:tlist_def_erlang_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_erlang_settings = 'erlang;d:macro;r:record;m:module;f:function'$/;"	v
+s:tlist_def_expect_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_expect_settings = 'tcl;c:class;f:method;p:procedure'$/;"	v
+s:tlist_def_flex_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_flex_settings = 'flex;v:global;c:classes;p:properties;'.$/;"	v
+s:tlist_def_fortran_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_fortran_settings = 'fortran;p:program;b:block data;' .$/;"	v
+s:tlist_def_go_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_go_settings = 'go;f:function;p:package;t:struct'$/;"	v
+s:tlist_def_html_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_html_settings = 'html;a:anchor;f:function'$/;"	v
+s:tlist_def_java_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_java_settings = 'java;p:package;c:class;i:interface;' .$/;"	v
+s:tlist_def_javascript_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_javascript_settings =$/;"	v
+s:tlist_def_lisp_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_lisp_settings = 'lisp;f:function'$/;"	v
+s:tlist_def_lua_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_lua_settings = 'lua;f:function'$/;"	v
+s:tlist_def_make_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_make_settings = 'make;m:macro'$/;"	v
+s:tlist_def_matlab_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_matlab_settings = 'matlab;f:function'$/;"	v
+s:tlist_def_ocamal_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_ocamal_settings = 'ocamal;M:module;v:global;t:type;'.$/;"	v
+s:tlist_def_pascal_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_pascal_settings = 'pascal;f:function;p:procedure'$/;"	v
+s:tlist_def_perl_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_perl_settings = 'perl;c:constant;l:label;p:package;s:subroutine'$/;"	v
+s:tlist_def_php_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_php_settings =$/;"	v
+s:tlist_def_python_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_python_settings = 'python;c:class;m:member;f:function'$/;"	v
+s:tlist_def_rexx_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_rexx_settings = 'rexx;s:subroutine'$/;"	v
+s:tlist_def_ruby_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_ruby_settings = 'ruby;c:class;f:method;F:function;' .$/;"	v
+s:tlist_def_scheme_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_scheme_settings = 'scheme;s:set;f:function'$/;"	v
+s:tlist_def_sh_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_sh_settings = 'sh;f:function'$/;"	v
+s:tlist_def_slang_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_slang_settings = 'slang;n:namespace;f:function'$/;"	v
+s:tlist_def_sml_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_sml_settings = 'sml;e:exception;c:functor;s:signature;' .$/;"	v
+s:tlist_def_sql_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_sql_settings = 'sql;f:functions;' .$/;"	v
+s:tlist_def_tcl_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_tcl_settings = 'tcl;c:class;f:method;m:method;p:procedure'$/;"	v
+s:tlist_def_tex_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_tex_settings = 'tex;c:chapters;s:sections;u:subsections;'.$/;"	v
+s:tlist_def_vera_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_vera_settings = 'vera;c:class;d:macro;e:enumerator;' .$/;"	v
+s:tlist_def_verilog_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_verilog_settings = 'verilog;m:module;c:constant;P:parameter;' .$/;"	v
+s:tlist_def_vhdl_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_vhdl_settings = 'vhdl;c:constant;t:type;T:subtype;r:record;e:entity;f:function;p:procedure;P:package'$/;"	v
+s:tlist_def_vim_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_vim_settings =$/;"	v
+s:tlist_def_yacc_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_yacc_settings = 'yacc;l:label'$/;"	v
+s:tlist_def_zsh_settings	bundle/taglist/plugin/taglist.vim	/^let s:tlist_def_zsh_settings = 'sh;f:function'$/;"	v
+s:tlist_file_count	bundle/taglist/plugin/taglist.vim	/^let s:tlist_file_count = 0$/;"	v
+s:tlist_file_lnum_idx_cache	bundle/taglist/plugin/taglist.vim	/^let s:tlist_file_lnum_idx_cache = -1$/;"	v
+s:tlist_file_name_idx_cache	bundle/taglist/plugin/taglist.vim	/^let s:tlist_file_name_idx_cache = -1$/;"	v
+s:tlist_file_names	bundle/taglist/plugin/taglist.vim	/^let s:tlist_file_names=''$/;"	v
+s:tlist_ftype_count	bundle/taglist/plugin/taglist.vim	/^let s:tlist_ftype_count = 0$/;"	v
+s:tlist_menu_empty	bundle/taglist/plugin/taglist.vim	/^let s:tlist_menu_empty = 1$/;"	v
+s:tlist_msg	bundle/taglist/plugin/taglist.vim	/^    let s:tlist_msg = ''$/;"	v
+s:tlist_removed_flist	bundle/taglist/plugin/taglist.vim	/^let s:tlist_removed_flist = ""$/;"	v
+s:tlist_sid	bundle/taglist/plugin/taglist.vim	/^    let s:tlist_sid = substitute(maparg('<SID>xx'), '<SNR>\\(\\d\\+_\\)xx$',$/;"	v
+s:tlist_win_maximized	bundle/taglist/plugin/taglist.vim	/^let s:tlist_win_maximized = 0$/;"	v
+s:tlist_winsize_chgd	bundle/taglist/plugin/taglist.vim	/^let s:tlist_winsize_chgd = -1$/;"	v
+s:tree_markup_reg	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:tree_markup_reg = '^[ `|]*[\\-+~▾▸ ]\\+'$/;"	v
+s:tree_up_dir_line	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:tree_up_dir_line = '.. (up a dir)'$/;"	v
+s:tree_up_dir_line	bundle/nerdtree/syntax/nerdtree.vim	/^let s:tree_up_dir_line = '.. (up a dir)'$/;"	v
+s:tree_wid	bundle/nerdtree/plugin/NERD_tree.vim	/^let s:tree_wid = 2$/;"	v
+s:vopen_warning	autoload/pathogen.vim	/^let s:vopen_warning = 0$/;"	v
+s:windows_vk	bundle/ConqueTerm/autoload/conque_term.vim	/^let s:windows_vk = {$/;"	v
+s:zen_settings	bundle/zencoding/autoload/zencoding.vim	/^let s:zen_settings = {$/;"	v
+saveScreenState	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:saveScreenState()$/;"	f
+screen	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    screen = None$/;"	v	class:Conque
+screen_encoding	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    screen_encoding = 'utf-8'$/;"	v	class:ConqueScreen
+screen_height	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    screen_height = 80$/;"	v	class:ConqueScreen
+screen_redraw_ct	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    screen_redraw_ct = 1$/;"	v	class:ConqueSole
+screen_redraw_ct	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    screen_redraw_ct = 0$/;"	v	class:ConqueSoleSubprocess
+screen_top	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    screen_top = 1$/;"	v	class:ConqueScreen
+screen_width	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    screen_width = 80$/;"	v	class:ConqueScreen
+serialize	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    serialize = False$/;"	v	class:ConqueSoleSharedMemory
+setCommonBufOptions	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:setCommonBufOptions()$/;"	f
+set_cursor	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def set_cursor(self, line, col):$/;"	m	class:Conque	access:public
+set_cursor	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def set_cursor(self, line, column):$/;"	m	class:ConqueScreen	access:public
+set_cursor	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def set_cursor(self, line, column):$/;"	m	class:ConqueSole	access:public
+set_screen_width	bundle/ConqueTerm/autoload/conque_term/conque_screen.py	/^    def set_screen_width(self, width):$/;"	m	class:ConqueScreen	access:public
+set_window_size	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def set_window_size(self, width, height):$/;"	m	class:ConqueSoleSubprocess	access:public
+setupStatusline	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:setupStatusline()$/;"	f
+shm	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    shm = None$/;"	v	class:ConqueSoleSharedMemory
+shm_attributes	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    shm_attributes = None$/;"	v	class:ConqueSoleSubprocess
+shm_attributes	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    shm_attributes = None$/;"	v	class:ConqueSoleWrapper
+shm_command	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        shm_command = ConqueSoleSharedMemory(CONQUE_SOLE_COMMANDS_SIZE, 'command', mem_key, serialize=True)$/;"	v
+shm_command	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    shm_command = None$/;"	v	class:ConqueSoleSubprocess
+shm_command	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    shm_command = None$/;"	v	class:ConqueSoleWrapper
+shm_input	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    shm_input = None$/;"	v	class:ConqueSoleSubprocess
+shm_input	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    shm_input = None$/;"	v	class:ConqueSoleWrapper
+shm_key	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    shm_key = ''$/;"	v	class:ConqueSoleWrapper
+shm_output	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    shm_output = None$/;"	v	class:ConqueSoleSubprocess
+shm_output	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    shm_output = None$/;"	v	class:ConqueSoleWrapper
+shm_rescroll	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    shm_rescroll = None$/;"	v	class:ConqueSoleSubprocess
+shm_rescroll	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    shm_rescroll = None$/;"	v	class:ConqueSoleWrapper
+shm_resize	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    shm_resize = None$/;"	v	class:ConqueSoleSubprocess
+shm_resize	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    shm_resize = None$/;"	v	class:ConqueSoleWrapper
+shm_stats	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    shm_stats = None$/;"	v	class:ConqueSoleSubprocess
+shm_stats	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    shm_stats = None$/;"	v	class:ConqueSoleWrapper
+showMenu	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:showMenu()$/;"	f
+signal	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    def signal(self, signum):$/;"	m	class:ConqueSubprocess	access:public
+sleep_time	bundle/ConqueTerm/autoload/conque_term/conque_sole_communicator.py	/^        sleep_time = 0.01$/;"	v
+stdin	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    stdin = None$/;"	v	class:ConqueSoleSubprocess
+stdout	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    stdout = None$/;"	v	class:ConqueSoleSubprocess
+stripMarkupFromLine	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:stripMarkupFromLine(line, removeLeadingSpaces)$/;"	f
+tabpagevar	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:tabpagevar(tabnr, var)$/;"	f
+tabstops	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    tabstops = []$/;"	v	class:Conque
+term_obj.close	bundle/ConqueTerm/autoload/conque_term.vim	/^function! s:term_obj.close() dict " {{{$/;"	f
+term_obj.focus	bundle/ConqueTerm/autoload/conque_term.vim	/^function! s:term_obj.focus() dict " {{{$/;"	f
+term_obj.read	bundle/ConqueTerm/autoload/conque_term.vim	/^function! s:term_obj.read(...) dict " {{{$/;"	f
+term_obj.set_callback	bundle/ConqueTerm/autoload/conque_term.vim	/^function! s:term_obj.set_callback(callback_func) dict " {{{$/;"	f
+term_obj.write	bundle/ConqueTerm/autoload/conque_term.vim	/^function! s:term_obj.write(...) dict " {{{$/;"	f
+term_obj.writeln	bundle/ConqueTerm/autoload/conque_term.vim	/^function! s:term_obj.writeln(...) dict " {{{$/;"	f
+tlist_pyrex_settings	bundle/taglist/plugin/taglist.vim	/^let tlist_pyrex_settings='python;c:classe;m:memder;f:function'$/;"	v
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:CHAR_INFO	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:CHAR_UNION	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:CONSOLE_SCREEN_BUFFER_INFO	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:COORD	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:FOCUS_EVENT_RECORD	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:INPUT_RECORD	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:INPUT_UNION	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:KEY_EVENT_RECORD	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:MEMORY_BASIC_INFORMATION	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:MENU_EVENT_RECORD	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:MOUSE_EVENT_RECORD	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:PROCESS_INFORMATION	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:SECURITY_ATTRIBUTES	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:SMALL_RECT	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:STARTUPINFO	access:public
+to_str	bundle/ConqueTerm/autoload/conque_term/conque_win32_util.py	/^    def to_str(self):$/;"	m	class:WINDOW_BUFFER_SIZE_RECORD	access:public
+toggle	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:toggle(dir)$/;"	f
+toggleIgnoreFilter	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:toggleIgnoreFilter()$/;"	f
+toggleShowBookmarks	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:toggleShowBookmarks()$/;"	f
+toggleShowFiles	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:toggleShowFiles()$/;"	f
+toggleShowHidden	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:toggleShowHidden()$/;"	f
+toggleZoom	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:toggleZoom()$/;"	f
+top	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    top = 1 # relative to top of screen$/;"	v	class:Conque
+top	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    top = 0$/;"	v	class:ConqueSoleSubprocess
+translate_color	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def translate_color(self, attr):$/;"	m	class:ConqueSole	access:public
+treeExistsForBuf	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:treeExistsForBuf()$/;"	f
+treeExistsForTab	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:treeExistsForTab()$/;"	f
+u	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^def u(str_val, str_encoding='utf-8', errors='strict'):$/;"	f	access:public
+uchr	bundle/ConqueTerm/autoload/conque_term/conque_globals.py	/^def uchr(str):$/;"	f	access:public
+unique	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:unique(list)$/;"	f
+unwrap_tables	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    unwrap_tables = True$/;"	v	class:Conque
+upDir	bundle/nerdtree/plugin/NERD_tree.vim	/^function! s:upDir(keepState)$/;"	f
+update_window_size	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def update_window_size(self, force=False):$/;"	m	class:Conque	access:public
+update_window_size	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def update_window_size(self):$/;"	m	class:ConqueSole	access:public
+warn	autoload/pathogen.vim	/^function! s:warn(msg)$/;"	f
+window_bottom	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    window_bottom = None$/;"	v	class:ConqueSole
+window_height	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    window_height = 40$/;"	v	class:ConqueSoleSubprocess
+window_resize	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def window_resize(self, lines, columns):$/;"	m	class:ConqueSoleWrapper	access:public
+window_resize	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    def window_resize(self, lines, columns):$/;"	m	class:ConqueSubprocess	access:public
+window_top	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    window_top = None$/;"	v	class:ConqueSole
+window_width	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    window_width = 160$/;"	v	class:ConqueSoleSubprocess
+working_columns	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    working_columns = 80 # can be changed by CSI ? 3 l\/h$/;"	v	class:Conque
+working_lines	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    working_lines = 24 # can be changed by CSI r$/;"	v	class:Conque
+wrap_cursor	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    wrap_cursor = False$/;"	v	class:Conque
+write	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def write(self, input, set_cursor=True, read=True):$/;"	m	class:Conque	access:public
+write	bundle/ConqueTerm/autoload/conque_term/conque_sole_shared_memory.py	/^    def write(self, text, start=0):$/;"	m	class:ConqueSoleSharedMemory	access:public
+write	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def write(self):$/;"	m	class:ConqueSoleSubprocess	access:public
+write	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def write(self, text):$/;"	m	class:ConqueSoleWrapper	access:public
+write	bundle/ConqueTerm/autoload/conque_term/conque_subprocess.py	/^    def write(self, input):$/;"	m	class:ConqueSubprocess	access:public
+write_buffered_ord	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def write_buffered_ord(self, chr):$/;"	m	class:Conque	access:public
+write_expr	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def write_expr(self, expr, set_cursor=True, read=True):$/;"	m	class:Conque	access:public
+write_latin1	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def write_latin1(self, input, set_cursor=True, read=True):$/;"	m	class:Conque	access:public
+write_ord	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def write_ord(self, input, set_cursor=True, read=True):$/;"	m	class:Conque	access:public
+write_plain	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def write_plain(self, text):$/;"	m	class:ConqueSoleSubprocess	access:public
+write_vk	bundle/ConqueTerm/autoload/conque_term/conque_sole.py	/^    def write_vk(self, vk_code):$/;"	m	class:ConqueSole	access:public
+write_vk	bundle/ConqueTerm/autoload/conque_term/conque_sole_subprocess.py	/^    def write_vk(self, vk_code):$/;"	m	class:ConqueSoleSubprocess	access:public
+write_vk	bundle/ConqueTerm/autoload/conque_term/conque_sole_wrapper.py	/^    def write_vk(self, vk_code):$/;"	m	class:ConqueSoleWrapper	access:public
+xterm_to_rgb	bundle/ConqueTerm/autoload/conque_term/conque.py	/^    def xterm_to_rgb(self, color_code):$/;"	m	class:Conque	access:public
+zencoding#CompleteTag	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#CompleteTag(findstart, base)$/;"	f
+zencoding#ExpandWord	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#ExpandWord(abbr, type, orig)$/;"	f
+zencoding#anchorizeURL	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#anchorizeURL(flag)$/;"	f
+zencoding#balanceTag	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#balanceTag(flag) range$/;"	f
+zencoding#codePretty	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#codePretty() range$/;"	f
+zencoding#encodeImage	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#encodeImage()$/;"	f
+zencoding#expandAbbr	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#expandAbbr(mode, abbr) range$/;"	f
+zencoding#getExpandos	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#getExpandos(type, key)$/;"	f
+zencoding#getFileType	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#getFileType()$/;"	f
+zencoding#getIndentation	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#getIndentation(...)$/;"	f
+zencoding#getResource	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#getResource(type, name, default)$/;"	f
+zencoding#getSettings	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#getSettings()$/;"	f
+zencoding#getSnippets	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#getSnippets(type)$/;"	f
+zencoding#imageSize	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#imageSize()$/;"	f
+zencoding#isExtends	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#isExtends(type, extend)$/;"	f
+zencoding#lang#css#balanceTag	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#balanceTag(flag) range$/;"	f
+zencoding#lang#css#encodeImage	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#encodeImage()$/;"	f
+zencoding#lang#css#findTokens	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#findTokens(str)$/;"	f
+zencoding#lang#css#imageSize	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#imageSize()$/;"	f
+zencoding#lang#css#moveNextPrev	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#moveNextPrev(flag)$/;"	f
+zencoding#lang#css#parseIntoTree	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#parseIntoTree(abbr, type)$/;"	f
+zencoding#lang#css#parseTag	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#parseTag(tag)$/;"	f
+zencoding#lang#css#removeTag	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#removeTag()$/;"	f
+zencoding#lang#css#splitJoinTag	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#splitJoinTag()$/;"	f
+zencoding#lang#css#toString	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#toString(settings, current, type, inline, filters, itemno, indent)$/;"	f
+zencoding#lang#css#toggleComment	bundle/zencoding/autoload/zencoding/lang/css.vim	/^function! zencoding#lang#css#toggleComment()$/;"	f
+zencoding#lang#exists	bundle/zencoding/autoload/zencoding/lang.vim	/^function zencoding#lang#exists(type)$/;"	f
+zencoding#lang#haml#balanceTag	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#balanceTag(flag) range$/;"	f
+zencoding#lang#haml#encodeImage	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#encodeImage()$/;"	f
+zencoding#lang#haml#findTokens	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#findTokens(str)$/;"	f
+zencoding#lang#haml#imageSize	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#imageSize()$/;"	f
+zencoding#lang#haml#moveNextPrev	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#moveNextPrev(flag)$/;"	f
+zencoding#lang#haml#parseIntoTree	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#parseIntoTree(abbr, type)$/;"	f
+zencoding#lang#haml#parseTag	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#parseTag(tag)$/;"	f
+zencoding#lang#haml#removeTag	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#removeTag()$/;"	f
+zencoding#lang#haml#splitJoinTag	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#splitJoinTag()$/;"	f
+zencoding#lang#haml#toString	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#toString(settings, current, type, inline, filters, itemno, indent)$/;"	f
+zencoding#lang#haml#toggleComment	bundle/zencoding/autoload/zencoding/lang/haml.vim	/^function! zencoding#lang#haml#toggleComment()$/;"	f
+zencoding#lang#html#balanceTag	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#balanceTag(flag) range$/;"	f
+zencoding#lang#html#encodeImage	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#encodeImage()$/;"	f
+zencoding#lang#html#findTokens	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#findTokens(str)$/;"	f
+zencoding#lang#html#imageSize	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#imageSize()$/;"	f
+zencoding#lang#html#moveNextPrev	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#moveNextPrev(flag)$/;"	f
+zencoding#lang#html#parseIntoTree	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#parseIntoTree(abbr, type)$/;"	f
+zencoding#lang#html#parseTag	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#parseTag(tag)$/;"	f
+zencoding#lang#html#removeTag	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#removeTag()$/;"	f
+zencoding#lang#html#splitJoinTag	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#splitJoinTag()$/;"	f
+zencoding#lang#html#toString	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#toString(settings, current, type, inline, filters, itemno, indent)$/;"	f
+zencoding#lang#html#toggleComment	bundle/zencoding/autoload/zencoding/lang/html.vim	/^function! zencoding#lang#html#toggleComment()$/;"	f
+zencoding#lang#sass#balanceTag	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#balanceTag(flag) range$/;"	f
+zencoding#lang#sass#encodeImage	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#encodeImage()$/;"	f
+zencoding#lang#sass#findTokens	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#findTokens(str)$/;"	f
+zencoding#lang#sass#imageSize	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#imageSize()$/;"	f
+zencoding#lang#sass#moveNextPrev	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#moveNextPrev(flag)$/;"	f
+zencoding#lang#sass#parseIntoTree	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#parseIntoTree(abbr, type)$/;"	f
+zencoding#lang#sass#parseTag	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#parseTag(tag)$/;"	f
+zencoding#lang#sass#removeTag	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#removeTag()$/;"	f
+zencoding#lang#sass#splitJoinTag	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#splitJoinTag()$/;"	f
+zencoding#lang#sass#toString	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#toString(settings, current, type, inline, filters, itemno, indent)$/;"	f
+zencoding#lang#sass#toggleComment	bundle/zencoding/autoload/zencoding/lang/sass.vim	/^function! zencoding#lang#sass#toggleComment()$/;"	f
+zencoding#lang#scss#balanceTag	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#balanceTag(flag) range$/;"	f
+zencoding#lang#scss#encodeImage	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#encodeImage()$/;"	f
+zencoding#lang#scss#findTokens	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#findTokens(str)$/;"	f
+zencoding#lang#scss#imageSize	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#imageSize()$/;"	f
+zencoding#lang#scss#moveNextPrev	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#moveNextPrev(flag)$/;"	f
+zencoding#lang#scss#parseIntoTree	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#parseIntoTree(abbr, type)$/;"	f
+zencoding#lang#scss#parseTag	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#parseTag(tag)$/;"	f
+zencoding#lang#scss#removeTag	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#removeTag()$/;"	f
+zencoding#lang#scss#splitJoinTag	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#splitJoinTag()$/;"	f
+zencoding#lang#scss#toString	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#toString(settings, current, type, inline, filters, itemno, indent)$/;"	f
+zencoding#lang#scss#toggleComment	bundle/zencoding/autoload/zencoding/lang/scss.vim	/^function! zencoding#lang#scss#toggleComment()$/;"	f
+zencoding#lang#slim#balanceTag	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#balanceTag(flag) range$/;"	f
+zencoding#lang#slim#encodeImage	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#encodeImage()$/;"	f
+zencoding#lang#slim#findTokens	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#findTokens(str)$/;"	f
+zencoding#lang#slim#imageSize	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#imageSize()$/;"	f
+zencoding#lang#slim#moveNextPrev	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#moveNextPrev(flag)$/;"	f
+zencoding#lang#slim#parseIntoTree	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#parseIntoTree(abbr, type)$/;"	f
+zencoding#lang#slim#parseTag	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#parseTag(tag)$/;"	f
+zencoding#lang#slim#removeTag	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#removeTag()$/;"	f
+zencoding#lang#slim#splitJoinTag	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#splitJoinTag()$/;"	f
+zencoding#lang#slim#toString	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#toString(settings, current, type, inline, filters, itemno, indent)$/;"	f
+zencoding#lang#slim#toggleComment	bundle/zencoding/autoload/zencoding/lang/slim.vim	/^function! zencoding#lang#slim#toggleComment()$/;"	f
+zencoding#mergeLines	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#mergeLines() range$/;"	f
+zencoding#moveNextPrev	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#moveNextPrev(flag)$/;"	f
+zencoding#parseIntoTree	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#parseIntoTree(abbr, type)$/;"	f
+zencoding#removeTag	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#removeTag()$/;"	f
+zencoding#splitFilterArg	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#splitFilterArg(filters)$/;"	f
+zencoding#splitJoinTag	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#splitJoinTag()$/;"	f
+zencoding#toString	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#toString(...)$/;"	f
+zencoding#toggleComment	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#toggleComment()$/;"	f
+zencoding#useFilter	bundle/zencoding/autoload/zencoding.vim	/^function! zencoding#useFilter(filters, filter)$/;"	f
+zencoding#util#cursorInRegion	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#cursorInRegion(region)$/;"	f
+zencoding#util#deleteContent	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#deleteContent(region)$/;"	f
+zencoding#util#getContent	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#getContent(region)$/;"	f
+zencoding#util#getContentFromURL	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#getContentFromURL(url)$/;"	f
+zencoding#util#getImageSize	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#getImageSize(fn)$/;"	f
+zencoding#util#getTextFromHTML	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#getTextFromHTML(buf)$/;"	f
+zencoding#util#getVisualBlock	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#getVisualBlock()$/;"	f
+zencoding#util#pointInRegion	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#pointInRegion(point, region)$/;"	f
+zencoding#util#regionInRegion	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#regionInRegion(outer, inner)$/;"	f
+zencoding#util#regionIsValid	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#regionIsValid(region)$/;"	f
+zencoding#util#searchRegion	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#searchRegion(start, end)$/;"	f
+zencoding#util#selectRegion	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#selectRegion(region)$/;"	f
+zencoding#util#setContent	bundle/zencoding/autoload/zencoding/util.vim	/^function! zencoding#util#setContent(region, content)$/;"	f
