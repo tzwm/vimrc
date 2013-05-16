@@ -13,3 +13,6 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/vim-format-js"]
+	path = bundle/vim-format-js
+	url = https://github.com/ZeusTheTrueGod/vim-format-js.git
