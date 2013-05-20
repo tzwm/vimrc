@@ -1,7 +1,7 @@
 set nocompatible" 不兼容模式
 set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1 "亂碼問題
-set hls"高亮
-syntax on "關鍵字高亮
+" set hls"高亮
+syntax on"關鍵字高亮
 set encoding=utf-8
 filetype plugin indent on
 set shiftwidth=4
@@ -43,11 +43,12 @@ let g:ConqueTerm_CWInsert = 1
 let g:ConqueTerm_InsertOnEnter = 1
 
 " NERDTree
-map <F3> :NERDTreeToggle<CR>
+map <F3> :NERDTree<CR>
 
 
 " clang_complete
 let g:clang_auto_select = 1
 
 " Tagbar
-nmap <F8> :TagbarToggle<CR> 
+nnoremap <silent> <F9> :TagbarToggle<CR>
+
