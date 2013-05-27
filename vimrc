@@ -43,7 +43,7 @@ let g:ConqueTerm_CWInsert = 1
 let g:ConqueTerm_InsertOnEnter = 1
 
 " NERDTree
-map <F3> :NERDTree<CR>
+map <F3> :NERDTreeToggle<CR>
 
 
 " clang_complete

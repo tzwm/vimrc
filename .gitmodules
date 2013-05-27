@@ -16,3 +16,6 @@
 [submodule "bundle/vim-format-js"]
 	path = bundle/vim-format-js
 	url = https://github.com/ZeusTheTrueGod/vim-format-js.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git

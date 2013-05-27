@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/tzwm/Development/project/GoGo/tmp'
 let g:netrw_dirhist_2='/home/tzwm/Development/quarry-0.2.0/src/gui-gtk'
+let g:netrw_dirhist_3='/home/tzwm/Development/project/GoGo'
+let g:netrw_dirhist_4='/home/tzwm/Development/project/QTtest'
