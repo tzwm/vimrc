@@ -1,10 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/tzwm/Development/project/GoGo/tmp'
-let g:netrw_dirhist_2='/home/tzwm/Development/quarry-0.2.0/src/gui-gtk'
-let g:netrw_dirhist_3='/home/tzwm/Development/project/GoGo'
-let g:netrw_dirhist_4='/home/tzwm/Development/project/QTtest'
-let g:netrw_dirhist_5='/home/tzwm/Development/B-Go-master'
-let g:netrw_dirhist_6='/home/tzwm/Development/project/JGo'
-let g:netrw_dirhist_7='/home/tzwm/Development/project/JGo/js'
-let g:netrw_dirhist_8='/home/tzwm/Development/project/JGo'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/media/work/software/foobar2000/playlists'
+let g:netrw_dirhist_2='/home/tzwm/Development/project/DriftLibrary'

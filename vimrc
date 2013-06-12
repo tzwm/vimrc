@@ -52,3 +52,6 @@ let g:clang_auto_select = 1
 " Tagbar
 nnoremap <silent> <F9> :TagbarToggle<CR>
 
+" Syntax file for jQuery
+au BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
+
