@@ -20,12 +20,14 @@ if (has("gui_running"))
     set nowrap 
     set guioptions-=b
     set guioptions-=r
+    set guioptions-=L
     colo torte
     set guioptions-=T
     set guioptions-=m
 else
     set wrap
 "    colo ron
+    colo torte
 endif
 
 runtime bundle/vim-pathogen/autoload/pathogen.vim
