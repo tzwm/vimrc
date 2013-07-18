@@ -1,6 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/media/work/software/foobar2000/playlists'
 let g:netrw_dirhist_2='/home/tzwm/Development/project/DriftLibrary'
 let g:netrw_dirhist_3='/home/tzwm/Development/project/QGo'
 let g:netrw_dirhist_4='/home/tzwm/Development/project/GoGo'
+let g:netrw_dirhist_5='/home/tzwm/Development/project/JGo'
+let g:netrw_dirhist_6='/home/tzwm/Development/project/GoGo'
+let g:netrw_dirhist_7='/home/tzwm/Development/project/DriftLibrary/WebContent'
+let g:netrw_dirhist_8='/home/tzwm/Development/project/HelloGC/HelloGC/src/main'

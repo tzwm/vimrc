@@ -15,6 +15,7 @@ set wildmenu
 
 filetype plugin indent on
 set completeopt=longest,menu
+autocmd FileType python set omnifunc=pythoncomplete#Complete  
 
 if (has("gui_running"))
     set nowrap 
