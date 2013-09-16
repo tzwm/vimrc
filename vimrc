@@ -12,6 +12,7 @@ set number
 set sm "括號配對情況
 set selection=inclusive
 set wildmenu
+syntax on
 
 filetype plugin indent on
 set completeopt=longest,menu
