@@ -32,6 +32,8 @@ else
     colo torte
 endif
 
+"set guifont=Anonymous\ Pro:h13:cANSI
+
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 call pathogen#infect()
 
