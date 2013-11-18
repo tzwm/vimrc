@@ -60,9 +60,12 @@ map <F3> :NERDTreeToggle<CR>
 let g:clang_auto_select = 1
 
 " Tagbar
-nnoremap <silent> <F9> :TagbarToggle<CR>
+nnoremap <silent> <F4> :TagbarToggle<CR>
 
 " Syntax file for jQuery
 au BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
 
+" python-mode
+let g:pymode_folding = 0
+let g:pymode_lint_write = 0
 
