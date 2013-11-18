@@ -34,8 +34,6 @@ endif
 
 "set guifont=Anonymous\ Pro:h13:cANSI
 
-runtime bundle/vim-pathogen/autoload/pathogen.vim
-call pathogen#infect()
 
 map <F12> :call DoCtags()<CR>
 
@@ -43,6 +41,12 @@ function DoCtags()
     silent! execute "!ctags -R --c++-kinds=+p --fields=+iaIS --extra=+q ."
     silent! execute "!cscope -b"
 endfunction
+
+
+" pathogen
+runtime bundle/vim-pathogen/autoload/pathogen.vim
+call pathogen#infect()
+call pathogen#helptags()
 
 "ConqueTerm
 let g:ConqueTerm_CWInsert = 1
@@ -60,4 +64,5 @@ nnoremap <silent> <F9> :TagbarToggle<CR>
 
 " Syntax file for jQuery
 au BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
+
 
