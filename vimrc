@@ -12,6 +12,7 @@ set number
 set sm "括號配對情況
 set selection=inclusive
 set wildmenu
+set laststatus=2
 syntax on
 
 filetype plugin indent on
@@ -68,4 +69,7 @@ au BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
 " python-mode
 let g:pymode_folding = 0
 let g:pymode_lint_write = 0
+
+" vim-airline
+"let g:airline#extensions#tabline#enabled = 1
 
