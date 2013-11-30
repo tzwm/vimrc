@@ -59,6 +59,7 @@ map <F3> :NERDTreeToggle<CR>
 
 " clang_complete
 let g:clang_auto_select = 1
+let g:clang_library_path = '/usr/lib/llvm-3.2/lib/'
 
 " Tagbar
 nnoremap <silent> <F4> :TagbarToggle<CR>
