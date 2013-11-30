@@ -49,3 +49,6 @@
 [submodule "bundle/conque-term"]
 	path = bundle/conque-term
 	url = https://github.com/rosenfeld/conque-term.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
