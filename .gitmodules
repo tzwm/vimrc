@@ -52,3 +52,9 @@
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule "bundle/lookupfile"]
+	path = bundle/lookupfile
+	url = https://github.com/vim-scripts/lookupfile
+[submodule "bundle/genutils"]
+	path = bundle/genutils
+	url = https://github.com/vim-scripts/genutils
