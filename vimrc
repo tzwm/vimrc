@@ -18,7 +18,7 @@ syntax on
 filetype plugin indent on
 set completeopt=longest,menu
 autocmd FileType python set omnifunc=pythoncomplete#Complete  
-autocmd FileType ruby set shiftwidth=2
+autocmd FileType ruby,eruby set shiftwidth=2
 
 if (has("gui_running"))
     set nowrap 
@@ -90,3 +90,7 @@ endif
 "nmap <silent> <leader>ll :LUBufs<cr>
 "映射LUWalk为,lw
 "nmap <silent> <leader>lw :LUWalk<cr>
+
+" jslint.vim
+let g:JSLintHighlightErrorLine = 0
+
