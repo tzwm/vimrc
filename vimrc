@@ -18,7 +18,7 @@ syntax on
 filetype plugin indent on
 set completeopt=longest,menu
 autocmd FileType python set omnifunc=pythoncomplete#Complete  
-autocmd FileType ruby,eruby set shiftwidth=2
+autocmd FileType ruby,eruby,html,javascript set shiftwidth=2
 
 if (has("gui_running"))
     set nowrap 
@@ -71,6 +71,7 @@ au BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
 " python-mode
 let g:pymode_folding = 0
 let g:pymode_lint_write = 0
+let g:pymode_rope = 0
 
 " vim-airline
 "let g:airline#extensions#tabline#enabled = 1
