@@ -19,6 +19,9 @@ filetype plugin indent on
 set completeopt=longest,menu
 autocmd FileType python set omnifunc=pythoncomplete#Complete  
 autocmd FileType ruby,eruby,html,javascript set shiftwidth=2
+autocmd FileType ruby,eruby,html,javascript set tabstop=2
+autocmd FileType ruby,eruby,html,javascript set softtabstop=2
+autocmd BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
 
 if (has("gui_running"))
     set nowrap 
