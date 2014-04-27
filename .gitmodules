@@ -49,9 +49,6 @@
 [submodule "bundle/conque-term"]
 	path = bundle/conque-term
 	url = https://github.com/rosenfeld/conque-term.git
-[submodule "bundle/YouCompleteMe"]
-	path = bundle/YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe
 [submodule "bundle/lookupfile"]
 	path = bundle/lookupfile
 	url = https://github.com/vim-scripts/lookupfile
@@ -76,3 +73,6 @@
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-slim"]
+	path = bundle/vim-slim
+	url = https://github.com/slim-template/vim-slim
