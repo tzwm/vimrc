@@ -1,5 +1,4 @@
-set nocompatible" 不兼容模式
-set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1 "亂碼問題
+set nocompatible" 不兼容模式 set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1 "亂碼問題
 " set hls"高亮
 syntax on"關鍵字高亮
 set encoding=utf-8
@@ -98,3 +97,11 @@ endif
 " jslint.vim
 let g:JSLintHighlightErrorLine = 0
 
+" syntastic
+call pathogen#infect()
+
+" vim-indent-guides  <Leader>ig
+set background=dark
+let g:indent_guides_auto_colors = 1
+"autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  guibg=red   ctermbg=3
+"autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=green ctermbg=4
