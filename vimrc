@@ -61,8 +61,8 @@ map <F3> :NERDTreeToggle<CR>
 
 
 " clang_complete
-let g:clang_auto_select = 1
-let g:clang_library_path = '/usr/lib/llvm-3.2/lib/'
+"let g:clang_auto_select = 1
+"let g:clang_library_path = '/usr/lib/llvm-3.2/lib/'
 
 " Tagbar
 nnoremap <silent> <F4> :TagbarToggle<CR>
@@ -105,3 +105,7 @@ set background=dark
 let g:indent_guides_auto_colors = 1
 "autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  guibg=red   ctermbg=3
 "autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=green ctermbg=4
+
+" vim-easymotion <Leader><Leader>w
+
+" vim-expand-region +/-

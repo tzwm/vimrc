@@ -4,9 +4,6 @@
 [submodule "bundle/echofunc"]
 	path = bundle/echofunc
 	url = https://github.com/mbbill/echofunc.git
-[submodule "bundle/clang_complete"]
-	path = bundle/clang_complete
-	url = https://github.com/Rip-Rip/clang_complete.git
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = https://github.com/majutsushi/tagbar.git
