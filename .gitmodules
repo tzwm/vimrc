@@ -46,15 +46,9 @@
 [submodule "bundle/conque-term"]
 	path = bundle/conque-term
 	url = https://github.com/rosenfeld/conque-term.git
-[submodule "bundle/genutils"]
-	path = bundle/genutils
-	url = https://github.com/vim-scripts/genutils
 [submodule "bundle/node"]
 	path = bundle/node
 	url = https://github.com/moll/vim-node.git
-[submodule "bundle/jslint"]
-	path = bundle/jslint
-	url = https://github.com/hallettj/jslint.vim.git
 [submodule "bundle/easymotion"]
 	path = bundle/easymotion
 	url = https://github.com/Lokaltog/vim-easymotion
@@ -73,9 +67,6 @@
 [submodule "bundle/vim-javascript"]
 	path = bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript
-[submodule "bundle/vim-jst"]
-	path = bundle/vim-jst
-	url = https://github.com/briancollins/vim-jst
 [submodule "bundle/vim-jade"]
 	path = bundle/vim-jade
 	url = https://github.com/digitaltoad/vim-jade
