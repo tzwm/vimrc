@@ -94,7 +94,8 @@ let g:indent_guides_auto_colors = 1
 
 " vim-expand-region +/-
 
-" ctrlp.vim
-let g:ctrlp_map = '<c-p>'
-let g:ctrlp_cmd = 'CtrlP'
-let g:ctrlp_regexp = 1
+" ctrlp.vim <c-p>
+
+" ack.vim :Ack
+
+" VimShell :VimShell
