@@ -32,7 +32,7 @@ if (has("gui_running"))
     set guioptions-=m
 else
     set wrap
-"    colo ron
+    colo ron
     colo torte
 endif
 
@@ -77,6 +77,7 @@ let g:pymode_rope = 0
 
 " vim-airline
 "let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#syntastic#enabled = 1
 
 " jslint.vim
 let g:JSLintHighlightErrorLine = 0
