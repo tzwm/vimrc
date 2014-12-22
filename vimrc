@@ -98,5 +98,6 @@ let g:indent_guides_auto_colors = 1
 " ctrlp.vim <c-p>
 
 " ack.vim :Ack
+let g:ackprg = 'ag --nogroup --nocolor --column' " use ag instead of ack, https://github.com/ggreer/the_silver_searcher
 
 " VimShell :VimShell
