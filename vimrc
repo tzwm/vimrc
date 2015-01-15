@@ -14,6 +14,11 @@ set wildmenu
 set laststatus=2
 syntax on
 
+set cursorline
+set cursorcolumn
+
+set shell=zsh\ -l
+
 filetype plugin indent on
 set completeopt=longest,menu
 autocmd FileType python set omnifunc=pythoncomplete#Complete  
