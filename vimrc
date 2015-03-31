@@ -1,4 +1,10 @@
+" pathogen
+runtime bundle/vim-pathogen/autoload/pathogen.vim
+call pathogen#infect()
+call pathogen#helptags()
 set nocompatible" 不兼容模式 set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1 "亂碼問題
+
+
 " set hls"高亮
 syntax on"關鍵字高亮
 set encoding=utf-8
@@ -32,13 +38,18 @@ if (has("gui_running"))
     set guioptions-=b
     set guioptions-=r
     set guioptions-=L
-    colo torte
+    set background=dark
+    colo solarized
+    "colo torte
     set guioptions-=T
     set guioptions-=m
+    set guifont=Anonymous\ Pro:h14
 else
     set wrap
-    colo ron
-    colo torte
+    set background=dark
+    colorscheme solarized
+    "colo ron
+    "colo torte
 endif
 
 "set guifont=Anonymous\ Pro:h13:cANSI
@@ -51,11 +62,6 @@ function DoCtags()
     silent! execute "!cscope -b"
 endfunction
 
-
-" pathogen
-runtime bundle/vim-pathogen/autoload/pathogen.vim
-call pathogen#infect()
-call pathogen#helptags()
 
 "ConqueTerm
 let g:ConqueTerm_CWInsert = 1
@@ -91,7 +97,6 @@ let g:JSLintHighlightErrorLine = 0
 call pathogen#infect()
 
 " vim-indent-guides  <Leader>ig
-set background=dark
 let g:indent_guides_auto_colors = 1
 "autocmd VimEnter,Colorscheme * :hi IndentGuidesOdd  guibg=red   ctermbg=3
 "autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=green ctermbg=4
