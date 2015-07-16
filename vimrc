@@ -9,15 +9,16 @@ set nocompatible" 不兼容模式 set fileencodings=ucs-bom,utf-8,cp936,gb18030,
 syntax on"關鍵字高亮
 set encoding=utf-8
 filetype plugin indent on
-set shiftwidth=4
-set tabstop=4
-set softtabstop=4
+set shiftwidth=2
+set tabstop=2
+set softtabstop=2
 set expandtab
 set number 
 set sm "括號配對情況
 set selection=inclusive
 set wildmenu
 set laststatus=2
+set vb "turn off visual bell
 syntax on
 
 set cursorline
@@ -91,10 +92,19 @@ let g:pymode_rope = 0
 let g:airline#extensions#syntastic#enabled = 1
 
 " jslint.vim
-let g:JSLintHighlightErrorLine = 0
+let g:JSLintHighlightErrorLine = 1
 
 " syntastic
-call pathogen#infect()
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+
+let g:syntastic_javascript_checkers=['jscs']
 
 " vim-indent-guides  <Leader>ig
 let g:indent_guides_auto_colors = 1
@@ -106,6 +116,7 @@ let g:indent_guides_auto_colors = 1
 " vim-expand-region +/-
 
 " ctrlp.vim <c-p>
+let g:ctrlp_custom_ignore = '\v[\/]node_modules$'
 
 " ack.vim :Ack
 let g:ackprg = 'ag --nogroup --nocolor --column' " use ag instead of ack, https://github.com/ggreer/the_silver_searcher
@@ -146,4 +157,3 @@ let g:neosnippet#enable_snipmate_compatibility = 1
 
 " Tell Neosnippet about the other snippets
 let g:neosnippet#snippets_directory='~/.vim/bundle/vim-snippets/snippets'
-
