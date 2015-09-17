@@ -44,7 +44,9 @@ if (has("gui_running"))
     "colo torte
     set guioptions-=T
     set guioptions-=m
-    set guifont=Anonymous\ Pro:h14
+    "set guifont=Anonymous\ Pro:h14
+    set guifont=Monoid:h14
+    "set guifont=Source\ Code\ Pro:h16
 else
     set wrap
     set background=dark
@@ -104,7 +106,9 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
-let g:syntastic_javascript_checkers=['jscs']
+let g:syntastic_javascript_checkers=['jscs', 'jsxhint']
+let g:syntastic_javascript_jscs_args = "--esprima=esprima-fb --esnext"
+let g:syntastic_javascript_jsxhint_args = "--esprima=esprima-fb --esnext"
 
 " vim-indent-guides  <Leader>ig
 let g:indent_guides_auto_colors = 1
