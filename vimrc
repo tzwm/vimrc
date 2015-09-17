@@ -45,8 +45,8 @@ if (has("gui_running"))
     set guioptions-=T
     set guioptions-=m
     "set guifont=Anonymous\ Pro:h14
-    set guifont=Monoid:h14
-    "set guifont=Source\ Code\ Pro:h16
+    "set guifont=Monoid:h14
+    set guifont=Source\ Code\ Pro\ Light:h14
 else
     set wrap
     set background=dark
