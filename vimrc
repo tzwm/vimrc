@@ -164,3 +164,7 @@ let g:neosnippet#snippets_directory='~/.vim/bundle/vim-snippets/snippets'
 
 " EditorConfig
 let g:EditorConfig_exclude_patterns = ['fugitive://.*']
+
+" vim-jsx
+let g:jsx_ext_required = 0
+"let g:jsx_pragma_required = 1

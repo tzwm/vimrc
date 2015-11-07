@@ -100,3 +100,9 @@
 [submodule "bundle/editorconfig-vim"]
 	path = bundle/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "bundle/yajs"]
+	path = bundle/yajs
+	url = https://github.com/othree/yajs.vim
+[submodule "bundle/es.next.syntax"]
+	path = bundle/es.next.syntax
+	url = https://github.com/othree/es.next.syntax.vim
