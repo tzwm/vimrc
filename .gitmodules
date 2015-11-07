@@ -106,3 +106,6 @@
 [submodule "bundle/es.next.syntax"]
 	path = bundle/es.next.syntax
 	url = https://github.com/othree/es.next.syntax.vim
+[submodule "bundle/vim-elixir"]
+	path = bundle/vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir
