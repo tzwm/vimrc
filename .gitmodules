@@ -115,3 +115,6 @@
 [submodule "bundle/vim-beancount"]
 	path = bundle/vim-beancount
 	url = https://github.com/nathangrigg/vim-beancount
+[submodule "bundle/vim-easy-align"]
+	path = bundle/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align
