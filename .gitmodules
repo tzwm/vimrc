@@ -112,3 +112,6 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-beancount"]
+	path = bundle/vim-beancount
+	url = https://github.com/nathangrigg/vim-beancount
