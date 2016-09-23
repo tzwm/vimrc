@@ -121,3 +121,6 @@
 [submodule "bundle/swift.vim"]
 	path = bundle/swift.vim
 	url = https://github.com/keith/swift.vim
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
