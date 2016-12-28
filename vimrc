@@ -34,6 +34,10 @@ autocmd FileType ruby,eruby,html,javascript set tabstop=2
 autocmd FileType ruby,eruby,html,javascript set softtabstop=2
 autocmd BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
 
+autocmd FileType proto set shiftwidth=4
+autocmd FileType proto set tabstop=4
+autocmd FileType proto set softtabstop=4
+
 if (has("gui_running"))
     set nowrap 
     set guioptions-=b
