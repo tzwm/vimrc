@@ -21,6 +21,9 @@ set laststatus=2
 set vb "turn off visual bell
 syntax on
 
+" NFA engine(2) is 30 times slower than old engine tested by tzwm using 5k lines C code with syntax and ctags
+set regexpengine=1
+
 set cursorline
 set cursorcolumn
 
