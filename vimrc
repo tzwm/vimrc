@@ -184,3 +184,6 @@ nmap ga <Plug>(EasyAlign)
 
 " vim-markdown
 let g:vim_markdown_folding_disabled = 1
+
+" vim-go
+let g:go_fmt_command = "goimports"
