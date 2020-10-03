@@ -187,3 +187,6 @@ let g:vim_markdown_folding_disabled = 1
 
 " vim-go
 let g:go_fmt_command = "goimports"
+
+" vim-beancount
+let b:beancount_root = $BEANCOUNT_ROOT
