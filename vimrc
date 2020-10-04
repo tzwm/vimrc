@@ -31,7 +31,6 @@ set shell=zsh\ -l
 
 filetype plugin indent on
 set completeopt=longest,menu
-autocmd FileType python set omnifunc=pythoncomplete#Complete  
 autocmd FileType ruby,eruby,html,javascript set shiftwidth=2
 autocmd FileType ruby,eruby,html,javascript set tabstop=2
 autocmd FileType ruby,eruby,html,javascript set softtabstop=2
@@ -132,18 +131,6 @@ let g:ctrlp_custom_ignore = '\v[\/]node_modules$'
 " ack.vim :Ack
 let g:ackprg = 'ag --nogroup --nocolor --column' " use ag instead of ack, https://github.com/ggreer/the_silver_searcher
 
-" VimShell :VimShell
-
-" neocomplete
-let g:neocomplete#enable_at_startup = 1
-
-" Enable omni completion.
-autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
-autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
-autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
-autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
-autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
-
 " neosnippet
 " Plugin key-mappings.
 imap <C-k>     <Plug>(neosnippet_expand_or_jump)
@@ -189,4 +176,5 @@ let g:vim_markdown_folding_disabled = 1
 let g:go_fmt_command = "goimports"
 
 " vim-beancount
-let b:beancount_root = $BEANCOUNT_ROOT
+"let b:beancount_root = $BEANCOUNT_ROOT
+let b:beancount_root='~/home_beancount/main.bean'
