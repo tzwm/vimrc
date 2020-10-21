@@ -28,7 +28,9 @@ Plug 'vim-airline/vim-airline-themes'
 let g:airline#extensions#syntastic#enabled = 1
 
 Plug 'nathanaelkane/vim-indent-guides'
-let g:indent_guides_enable_on_vim_startup = 1
+"let g:indent_guides_enable_on_vim_startup = 1
+let g:indent_guides_auto_colors = 1
+
 
 Plug 'easymotion/vim-easymotion'
 let g:EasyMotion_do_mapping = 0 " Disable default mappings
