@@ -52,7 +52,10 @@ Plug 'terryma/vim-expand-region' " +/-
 Plug 'ctrlpvim/ctrlp.vim'
 
 Plug 'mileszs/ack.vim'
-let g:ackprg = 'ag --nogroup --nocolor --column' " use ag instead of ack, https://github.com/ggreer/the_silver_searcher
+if executable('ag')
+  "let g:ackprg = 'ag --vimgrep'
+  let g:ackprg = 'ag --nogroup --nocolor --column' " use ag instead of ack, https://github.com/ggreer/the_silver_searcher
+endif
 
 Plug 'tpope/vim-endwise'
 Plug 'dag/vim-fish'
@@ -87,3 +90,9 @@ set cursorline
 set wrap
 set background=dark
 colorscheme solarized
+
+" 删除行尾空格
+autocmd BufWritePre * %s/\s\+$//e
+
+" 插入当前日期
+noremap cd i<C-R>=strftime('%F')<CR>
