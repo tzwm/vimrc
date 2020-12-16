@@ -82,6 +82,9 @@ let g:UltiSnipsJumpBackwardTrigger="<S-Tab>"
 " If you want :UltiSnipsEdit to split your window.
 let g:UltiSnipsEditSplit="vertical"
 
+Plug 'elixir-editors/vim-elixir'
+Plug 'slashmili/alchemist.vim'
+
 " Initialize plugin system
 call plug#end()
 
