@@ -5,8 +5,9 @@ call plug#begin(stdpath('data') . '/plugged')
 
 
 Plug 'tzwm/vim-beancount'
-"let b:beancount_root = $BEANCOUNT_ROOT
-let g:beancount_root = '~/home_beancount/main.bean'
+if getcwd() =~# 'beancount'
+  set secure exrc
+endif
 
 Plug 'scrooloose/nerdtree'
 map <F3> :NERDTreeToggle<CR>
