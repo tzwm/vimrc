@@ -20,7 +20,7 @@ set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 
 let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
+let g:syntastic_auto_loc_list = 0
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
@@ -86,6 +86,8 @@ let g:UltiSnipsEditSplit="vertical"
 Plug 'elixir-editors/vim-elixir'
 Plug 'slashmili/alchemist.vim'
 
+Plug 'vim-ruby/vim-ruby'
+
 " Initialize plugin system
 call plug#end()
 
@@ -110,7 +112,7 @@ set regexpengine=1
 set cursorline
 " set cursorcolumn
 
-set wrap
+set nowrap
 set background=dark
 colorscheme solarized
 
