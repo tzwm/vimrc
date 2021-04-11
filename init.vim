@@ -88,6 +88,8 @@ Plug 'slashmili/alchemist.vim'
 
 Plug 'vim-ruby/vim-ruby'
 
+Plug 'habamax/vim-godot'
+
 " Initialize plugin system
 call plug#end()
 
