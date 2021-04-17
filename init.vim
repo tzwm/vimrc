@@ -90,6 +90,10 @@ Plug 'vim-ruby/vim-ruby'
 
 Plug 'habamax/vim-godot'
 
+Plug 'jceb/vim-orgmode'
+let g:org_agenda_files=['~/org/index.org']
+
+
 " Initialize plugin system
 call plug#end()
 
