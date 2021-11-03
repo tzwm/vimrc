@@ -118,6 +118,10 @@ set nowrap
 set background=dark
 colorscheme solarized
 
+"set guifont=Anonymous\ Pro\ Regular:h16
+set guifont=IBM\ Plex\ Mono\ Regular:h16
+"set guifont=Source\ Code\ Pro\ Regular:h18
+
 " 删除行尾空格
 autocmd BufWritePre * %s/\s\+$//e
 
