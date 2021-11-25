@@ -55,7 +55,7 @@ Plug 'ctrlpvim/ctrlp.vim'
 Plug 'mileszs/ack.vim'
 if executable('ag')
   "let g:ackprg = 'ag --vimgrep'
-  let g:ackprg = 'ag --nogroup --nocolor --column' " use ag instead of ack, https://github.com/ggreer/the_silver_searcher
+  let g:ackprg = 'ag --nogroup --nocolor --column --ignore-case' " use ag instead of ack, https://github.com/ggreer/the_silver_searcher
 endif
 
 Plug 'tpope/vim-endwise'
