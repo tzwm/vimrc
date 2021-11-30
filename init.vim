@@ -64,9 +64,9 @@ Plug 'altercation/vim-colors-solarized'
 Plug 'tpope/vim-fugitive'
 Plug 'mhinz/vim-signify'
 
-Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
+"Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 " Use deoplete.
-let g:deoplete#enable_at_startup = 1
+"let g:deoplete#enable_at_startup = 1
 
 
 Plug 'SirVer/ultisnips'
@@ -89,6 +89,9 @@ Plug 'slashmili/alchemist.vim'
 Plug 'vim-ruby/vim-ruby'
 
 Plug 'habamax/vim-godot'
+
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" :CocInstall coc-elixir
 
 " Initialize plugin system
 call plug#end()
