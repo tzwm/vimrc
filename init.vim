@@ -130,3 +130,6 @@ autocmd BufWritePre * %s/\s\+$//e
 
 " 插入当前日期
 noremap cd i<C-R>=strftime('%F')<CR>
+
+" auto format elixir files
+autocmd BufWritePost *.exs,*.ex silent :!mix format --check-equivalent %
