@@ -93,6 +93,9 @@ Plug 'habamax/vim-godot'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " :CocInstall coc-elixir
 
+Plug 'github/copilot.vim'
+" :Copilot setup
+
 " Initialize plugin system
 call plug#end()
 
