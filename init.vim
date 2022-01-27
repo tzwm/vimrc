@@ -132,4 +132,5 @@ autocmd BufWritePre * %s/\s\+$//e
 noremap cd i<C-R>=strftime('%F')<CR>
 
 " auto format elixir files
-autocmd BufWritePost *.exs,*.ex silent :!mix format --check-equivalent %
+noremap mf :!mix format --check-equivalent %
+" autocmd BufWritePost *.exs,*.ex silent :!mix format --check-equivalent %
