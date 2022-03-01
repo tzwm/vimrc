@@ -97,6 +97,10 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'github/copilot.vim'
 " :Copilot setup
 
+Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+" :TSInstall ruby
+" :TSInstall elixir
+
 " Initialize plugin system
 call plug#end()
 
