@@ -90,9 +90,47 @@ Plug 'slashmili/alchemist.vim'
 Plug 'vim-ruby/vim-ruby'
 
 Plug 'habamax/vim-godot'
+" :CocConfig
+"{
+  ""languageserver": {
+    ""godot": {
+      ""host": "127.0.0.1",
+      ""filetypes": ["gdscript"],
+      ""port": 6008
+      "}
+    "}
+"}
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " :CocInstall coc-elixir
+
+" GoTo code navigation.
+nmap <silent> gd <Plug>(coc-definition)
+"nmap <silent> gy <Plug>(coc-type-definition)
+"nmap <silent> gi <Plug>(coc-implementation)
+"nmap <silent> gr <Plug>(coc-references)
+
+" Use K to show documentation in preview window.
+nnoremap <silent> K :call <SID>show_documentation()<CR>
+
+function! s:show_documentation()
+  if CocAction('hasProvider', 'hover')
+    call CocActionAsync('doHover')
+  else
+    call feedkeys('K', 'in')
+  endif
+endfunction
+
+" Highlight the symbol and its references when holding the cursor.
+"autocmd CursorHold * silent call CocActionAsync('highlight')
+
+" Symbol renaming.
+nmap <leader>rn <Plug>(coc-rename)
+
+" Formatting selected code.
+xmap <leader>f  <Plug>(coc-format-selected)
+nmap <leader>f  <Plug>(coc-format-selected)
+
 
 Plug 'github/copilot.vim'
 " :Copilot setup
@@ -118,6 +156,7 @@ set selection=inclusive
 set wildmenu
 set laststatus=2
 set vb "turn off visual bell
+set updatetime=300
 
 " NFA engine(2) is 30 times slower than old engine tested by tzwm using 5k lines C code with syntax and ctags
 set regexpengine=1
