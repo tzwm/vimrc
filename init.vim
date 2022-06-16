@@ -103,6 +103,8 @@ Plug 'habamax/vim-godot'
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " :CocInstall coc-elixir
+" gem install solargraph
+" :CocInstall coc-solargraph
 
 " GoTo code navigation.
 nmap <silent> gd <Plug>(coc-definition)
@@ -131,6 +133,16 @@ nmap <leader>rn <Plug>(coc-rename)
 xmap <leader>f  <Plug>(coc-format-selected)
 nmap <leader>f  <Plug>(coc-format-selected)
 
+" Remap <C-f> and <C-b> for scroll float windows/popups.
+if has('nvim-0.4.0') || has('patch-8.2.0750')
+  nnoremap <silent><nowait><expr> <C-f> coc#float#has_scroll() ? coc#float#scroll(1) : "\<C-f>"
+  nnoremap <silent><nowait><expr> <C-b> coc#float#has_scroll() ? coc#float#scroll(0) : "\<C-b>"
+  inoremap <silent><nowait><expr> <C-f> coc#float#has_scroll() ? "\<c-r>=coc#float#scroll(1)\<cr>" : "\<Right>"
+  inoremap <silent><nowait><expr> <C-b> coc#float#has_scroll() ? "\<c-r>=coc#float#scroll(0)\<cr>" : "\<Left>"
+  vnoremap <silent><nowait><expr> <C-f> coc#float#has_scroll() ? coc#float#scroll(1) : "\<C-f>"
+  vnoremap <silent><nowait><expr> <C-b> coc#float#has_scroll() ? coc#float#scroll(0) : "\<C-b>"
+endif
+
 
 Plug 'github/copilot.vim'
 " :Copilot setup
@@ -138,6 +150,8 @@ Plug 'github/copilot.vim'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 " :TSInstall ruby
 " :TSInstall elixir
+
+Plug 'rust-lang/rust.vim'
 
 " Initialize plugin system
 call plug#end()
