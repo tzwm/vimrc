@@ -144,9 +144,6 @@ if has('nvim-0.4.0') || has('patch-8.2.0750')
 endif
 
 
-Plug 'github/copilot.vim'
-" :Copilot setup
-
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 " :TSInstall ruby
 " :TSInstall elixir
