@@ -5,9 +5,7 @@ call plug#begin(stdpath('data') . '/plugged')
 
 
 Plug 'tzwm/vim-beancount'
-if getcwd() =~# 'beancount'
-  set secure exrc
-endif
+" to see something more: ./ftplugin/beancount.vim
 
 Plug 'scrooloose/nerdtree'
 map <F3> :NERDTreeToggle<CR>
@@ -105,6 +103,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " :CocInstall coc-elixir
 " gem install solargraph
 " :CocInstall coc-solargraph
+" :CocInstall coc-rust-analyzer
 
 " GoTo code navigation.
 nmap <silent> gd <Plug>(coc-definition)
