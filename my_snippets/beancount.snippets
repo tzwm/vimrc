@@ -3,3 +3,7 @@ snippet tr "new transaction"
 	${5} ${6} CNY
 	${7} ${8} ${0}
 endsnippet
+
+snippet td "today"
+`date +%Y`-${2:`date +%m`}-${1:`date +%d`} ${3}
+endsnippet

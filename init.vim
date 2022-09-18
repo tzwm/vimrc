@@ -5,6 +5,7 @@ call plug#begin(stdpath('data') . '/plugged')
 
 
 Plug 'tzwm/vim-beancount'
+"let g:beancount_account_completion = "chunks"
 " to see something more: ./ftplugin/beancount.vim
 
 Plug 'scrooloose/nerdtree'
@@ -26,9 +27,9 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 let g:airline#extensions#syntastic#enabled = 1
 
-Plug 'nathanaelkane/vim-indent-guides'
+"Plug 'nathanaelkane/vim-indent-guides'
 "let g:indent_guides_enable_on_vim_startup = 1
-let g:indent_guides_auto_colors = 1
+"let g:indent_guides_auto_colors = 1
 
 
 Plug 'easymotion/vim-easymotion'
@@ -155,6 +156,7 @@ call plug#end()
 
 syntax on "关键字高亮
 set encoding=utf-8
+set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,latin1
 filetype plugin indent on
 set shiftwidth=2
 set tabstop=2
