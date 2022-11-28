@@ -60,7 +60,8 @@ endif
 
 Plug 'tpope/vim-endwise'
 Plug 'dag/vim-fish'
-Plug 'altercation/vim-colors-solarized'
+"Plug 'altercation/vim-colors-solarized'
+Plug 'lifepillar/vim-solarized8'
 Plug 'tpope/vim-fugitive'
 Plug 'mhinz/vim-signify'
 
@@ -178,7 +179,10 @@ set cursorline
 
 set nowrap
 set background=dark
-colorscheme solarized
+set termguicolors
+"autocmd vimenter * ++nested colorscheme solarized8
+colorscheme solarized8
+
 
 "set guifont=Anonymous\ Pro\ Regular:h16
 set guifont=IBM\ Plex\ Mono\ Regular:h16
