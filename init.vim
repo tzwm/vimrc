@@ -106,6 +106,19 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " gem install solargraph
 " :CocInstall coc-solargraph
 " :CocInstall coc-rust-analyzer
+" :CocInstall coc-tsserver
+
+" Use tab for trigger completion with characters ahead and navigate
+" NOTE: There's always complete item selected by default, you may want to enable
+" no select by `"suggest.noselect": true` in your configuration file
+" NOTE: Use command ':verbose imap <tab>' to make sure tab is not mapped by
+" other plugin before putting this into your config
+inoremap <silent><expr> <TAB>
+      \ coc#pum#visible() ? coc#pum#next(1) :
+      \ CheckBackspace() ? "\<Tab>" :
+      \ coc#refresh()
+inoremap <expr><S-TAB> coc#pum#visible() ? coc#pum#prev(1) : "\<C-h>"
+
 
 " GoTo code navigation.
 nmap <silent> gd <Plug>(coc-definition)
@@ -169,10 +182,9 @@ set selection=inclusive
 set wildmenu
 set laststatus=2
 set vb "turn off visual bell
-set updatetime=300
+set updatetime=400
 
-" NFA engine(2) is 30 times slower than old engine tested by tzwm using 5k lines C code with syntax and ctags
-set regexpengine=1
+" NFA engine(2) is 30 times slower than old engine tested by tzwm using 5k lines C code with syntax and ctags set regexpengine=1
 
 set cursorline
 " set cursorcolumn
@@ -187,6 +199,8 @@ colorscheme solarized8
 "set guifont=Anonymous\ Pro\ Regular:h16
 set guifont=IBM\ Plex\ Mono\ Regular:h16
 "set guifont=Source\ Code\ Pro\ Regular:h18
+
+set wildignore+=*/node_modules/*
 
 " 删除行尾空格
 autocmd BufWritePre * %s/\s\+$//e
