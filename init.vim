@@ -9,6 +9,7 @@ Plug 'tzwm/vim-beancount'
 " to see something more: ./ftplugin/beancount.vim
 
 Plug 'scrooloose/nerdtree'
+let NERDTreeShowHidden=1
 map <F3> :NERDTreeToggle<CR>
 
 Plug 'scrooloose/nerdcommenter'
