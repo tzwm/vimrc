@@ -207,6 +207,9 @@ set wildignore+=*/node_modules/*
 " 删除行尾空格
 autocmd BufWritePre * %s/\s\+$//e
 
+" remove ugly red comments in JSON
+autocmd FileType json syntax match Comment +\/\/.\+$+
+
 " 插入当前日期
 noremap cd i<C-R>=strftime('%F')<CR>
 
