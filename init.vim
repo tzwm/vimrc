@@ -166,12 +166,13 @@ Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
 Plug 'rust-lang/rust.vim'
 
-Plug 'Exafunction/codeium.vim'
+"Plug 'Exafunction/codeium.vim'
 
-let g:airline_section_y = '{…}%3{codeium#GetStatusString()}'
-let g:codeium_disable_bindings = 1
-imap <script><silent><nowait><expr> <C-g> codeium#Accept()
+"let g:airline_section_y = '{…}%3{codeium#GetStatusString()}'
+"let g:codeium_disable_bindings = 1
+"imap <script><silent><nowait><expr> <C-g> codeium#Accept()
 
+Plug 'prisma/vim-prisma'
 
 " Initialize plugin system
 call plug#end()
