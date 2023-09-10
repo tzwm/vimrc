@@ -5,5 +5,7 @@
       "filetypes": ["gdscript"],
       "port": 6008
     }
-  }
+  },
+  "pyright.inlayHints.functionReturnTypes": false,
+  "pyright.inlayHints.variableTypes": false
 }
