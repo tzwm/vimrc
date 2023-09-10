@@ -4,8 +4,13 @@
       "host": "127.0.0.1",
       "filetypes": ["gdscript"],
       "port": 6008
+    },
+    "emmet-ls": {
+      "host": "127.0.0.1",
+      "filetypes": ["css", "eruby", "html", "javascript", "javascriptreact", "less", "sass", "scss", "svelte", "pug", "typescriptreact", "vue"]
     }
   },
   "pyright.inlayHints.functionReturnTypes": false,
-  "pyright.inlayHints.variableTypes": false
+  "pyright.inlayHints.variableTypes": false,
+  "svelte.enable-ts-plugin": true
 }

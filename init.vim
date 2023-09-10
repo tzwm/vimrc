@@ -109,6 +109,8 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " :CocInstall coc-rust-analyzer
 " :CocInstall coc-tsserver
 " :CocInstall coc-svelte
+"
+" npm install -g emmet-ls
 
 Plug 'leafOfTree/vim-svelte-plugin'
 
