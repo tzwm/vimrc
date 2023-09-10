@@ -108,6 +108,9 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " :CocInstall coc-solargraph
 " :CocInstall coc-rust-analyzer
 " :CocInstall coc-tsserver
+" :CocInstall coc-svelte
+
+Plug 'leafOfTree/vim-svelte-plugin'
 
 " Make <CR> to accept selected completion item or notify coc.nvim to format
 " <C-g>u breaks current undo, please make your own choice
@@ -163,6 +166,7 @@ endif
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 " :TSInstall ruby
 " :TSInstall elixir
+" :TSInstall css
 
 Plug 'rust-lang/rust.vim'
 
