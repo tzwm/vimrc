@@ -109,10 +109,13 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " :CocInstall coc-rust-analyzer
 " :CocInstall coc-tsserver
 " :CocInstall coc-svelte
+" :CocInstall https://github.com/joshuaharry/coc-svelte
 "
 " npm install -g emmet-ls
 
+" https://codechips.me/vim-setup-for-svelte-development/
 Plug 'leafOfTree/vim-svelte-plugin'
+let g:vim_svelte_plugin_use_typescript = 1
 
 " Make <CR> to accept selected completion item or notify coc.nvim to format
 " <C-g>u breaks current undo, please make your own choice
@@ -179,6 +182,9 @@ Plug 'rust-lang/rust.vim'
 "imap <script><silent><nowait><expr> <C-g> codeium#Accept()
 
 Plug 'prisma/vim-prisma'
+
+" TypeScript
+Plug 'HerringtonDarkholme/yats.vim'
 
 " Initialize plugin system
 call plug#end()
