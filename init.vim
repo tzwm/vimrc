@@ -110,6 +110,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " :CocInstall coc-tsserver
 " :CocInstall coc-svelte
 " :CocInstall https://github.com/joshuaharry/coc-svelte
+" :CocInstall coc-prettier
 "
 " npm install -g emmet-ls
 
@@ -185,6 +186,8 @@ Plug 'prisma/vim-prisma'
 
 " TypeScript
 Plug 'HerringtonDarkholme/yats.vim'
+
+Plug 'sbdchd/neoformat'
 
 " Initialize plugin system
 call plug#end()
