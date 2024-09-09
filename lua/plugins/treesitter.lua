@@ -6,7 +6,7 @@ return {
 
     configs.setup({
       ensure_installed = {
-        "lua", "vim", "vimdoc", "query", "markdown",
+        "lua", "vim", "vimdoc", "query", "markdown", "bash",
         "ruby", "elixir", "python",
         "javascript", "html", "css", "typescript",
       },

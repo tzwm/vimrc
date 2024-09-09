@@ -129,8 +129,9 @@ return {
       local servers = {
         pyright = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
-        tsserver = {},
+        ts_ls = {},
         svelte = {},
+        bashls = {},
 
         lua_ls = {
           -- cmd = {...},
@@ -164,6 +165,19 @@ return {
           end,
           settings = {
             Lua = {
+              hint = {
+                enable = true,
+              },
+              runtime = {
+                version = 'LuaJIT',
+              },
+              workspace = {
+                checkThirdParty = true,
+                library = {
+                  vim.env.VIMRUNTIME,
+                  '~/.local/share/nvim/lazy/solarized.nvim',
+                },
+              },
               completion = {
                 callSnippet = 'Replace',
               },

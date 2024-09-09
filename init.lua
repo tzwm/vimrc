@@ -7,57 +7,6 @@ vim.opt.encoding = 'utf-8'
 
 require("config.lazy")
 
-local Plug = vim.fn['plug#']
-
-vim.call('plug#begin')
-
-
-Plug('easymotion/vim-easymotion')
-vim.cmd([[
-
-let g:EasyMotion_do_mapping = 0 " Disable default mappings
-
-" Jump to anywhere you want with minimal keystrokes, with just one key binding.
-" `s{char}{label}`
-"nmap s <Plug>(easymotion-overwin-f)
-" or
-" `s{char}{char}{label}`
-" Need one more keystroke, but on average, it may be more comfortable.
-nmap s <Plug>(easymotion-overwin-f2)
-
-" Turn on case-insensitive feature
-let g:EasyMotion_smartcase = 1
-]])
-
-
-Plug('terryma/vim-expand-region')
-
-
-Plug('tpope/vim-endwise')
-Plug('dag/vim-fish')
-Plug('lifepillar/vim-solarized8')
-Plug('tpope/vim-fugitive')
-Plug('mhinz/vim-signify')
-
-
-
-Plug('vim-ruby/vim-ruby')
-
-Plug('habamax/vim-godot')
-
-Plug('neoclide/coc.nvim', { ['branch'] = 'release' } )
-Plug('leafOfTree/vim-svelte-plugin')
-Plug('nvim-treesitter/nvim-treesitter', { ['do'] = ':TSUpdate' })
-
-Plug('HerringtonDarkholme/yats.vim')
-
-Plug('sbdchd/neoformat')
-
-
-
-vim.call('plug#end')
-
-
 vim.cmd([[
 syntax on "关键字高亮
 set encoding=utf-8
@@ -81,10 +30,10 @@ set cursorline
 " set cursorcolumn
 
 set nowrap
-set background=dark
+" set background=dark
 set termguicolors
 "autocmd vimenter * ++nested colorscheme solarized8
-colorscheme solarized8
+" colorscheme solarized8
 
 
 "set guifont=Anonymous\ Pro\ Regular:h16
@@ -107,4 +56,3 @@ noremap mf :!mix format --check-equivalent %
 
 
 ]])
-
