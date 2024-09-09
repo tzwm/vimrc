@@ -2,6 +2,9 @@ return {
   "ibhagwan/fzf-lua",
   -- optional for icon support
   dependencies = { "nvim-tree/nvim-web-devicons" },
+  opts = {
+    winopts = { width=0.94, height=0.94 },
+  },
   keys = {
     { '<C-P>', '<cmd>FzfLua files<CR>' },
     { '<C-G>', '<cmd>FzfLua live_grep<CR>' },
