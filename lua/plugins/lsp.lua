@@ -17,6 +17,9 @@ return {
       'williamboman/mason-lspconfig.nvim',
       'WhoIsSethDaniel/mason-tool-installer.nvim',
     },
+    opts = {
+      -- inlay_hints = { enabled = false },
+    },
     config = function()
       vim.api.nvim_create_autocmd('LspAttach', {
         group = vim.api.nvim_create_augroup('kickstart-lsp-attach', { clear = true }),
@@ -106,10 +109,18 @@ return {
               vim.lsp.inlay_hint.enable(not vim.lsp.inlay_hint.is_enabled { bufnr = event.buf })
             end, '[T]oggle Inlay [H]ints')
           end
+
+          vim.diagnostic.config({virtual_text = false})
+          vim.api.nvim_create_autocmd({ "CursorHold", "CursorHoldI" }, {
+            group = vim.api.nvim_create_augroup("float_diagnostic", { clear = true }),
+            callback = function ()
+              vim.diagnostic.open_float(nil, {focus=false})
+            end
+          })
         end,
       })
 
-       -- LSP servers and clients are able to communicate to each other what features they support.
+      -- LSP servers and clients are able to communicate to each other what features they support.
       --  By default, Neovim doesn't support everything that is in the LSP specification.
       --  When you add nvim-cmp, luasnip, etc. Neovim now has *more* capabilities.
       --  So, we create new capabilities with nvim cmp, and then broadcast that to the servers.
@@ -218,13 +229,6 @@ return {
         },
       }
 
-      --     require('mason').setup()
-      --     require('mason-lspconfig').setup({
-      --       ensure_installed = {
-      --         "lua_ls",
-      --       },
-      --     })
-      --
     end
   },
 }
