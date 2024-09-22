@@ -144,6 +144,9 @@ return {
         svelte = {},
         bashls = {},
 
+        -- xml
+        lemminx = {},
+
         lua_ls = {
           -- cmd = {...},
           -- filetypes = { ...},

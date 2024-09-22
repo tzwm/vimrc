@@ -4,7 +4,8 @@ return {
   main = 'nvim-treesitter.configs', -- Sets main module to use for opts
   ops = {
     ensure_installed = {
-      "lua", "vim", "vimdoc", "query", "markdown", "bash",
+      "markdown", "vim", "vimdoc",
+      "lua", "query", "bash",
       "ruby", "elixir", "python",
       "javascript", "html", "css", "typescript",
     },

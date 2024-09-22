@@ -13,7 +13,7 @@ return {
       max_tokens = 4096,
     },
     behaviour = {
-      auto_suggestions = false, -- Experimental stage
+      auto_suggestions = true, -- Experimental stage
       auto_set_highlight_group = true,
       auto_set_keymaps = true,
       auto_apply_diff_after_generation = false,
@@ -31,7 +31,7 @@ return {
         prev = "[x",
       },
       suggestion = {
-        accept = "<M-l>",
+        accept = "<C-y>",
         next = "<M-]>",
         prev = "<M-[>",
         dismiss = "<C-]>",
@@ -101,9 +101,11 @@ return {
       -- Make sure to set this up properly if you have lazy=true
       'MeanderingProgrammer/render-markdown.nvim',
       opts = {
-        file_types = { "markdown", "Avante" },
+        -- file_types = { "markdown", "Avante" },
+        file_types = { "Avante" },
       },
-      ft = { "markdown", "Avante" },
+      -- ft = { "markdown", "Avante" },
+      ft = { "Avante" },
     },
   },
 }
