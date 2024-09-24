@@ -143,6 +143,8 @@ return {
         ts_ls = {},
         svelte = {},
         bashls = {},
+        emmet_ls = {},
+        biome = {},
 
         -- xml
         lemminx = {},
