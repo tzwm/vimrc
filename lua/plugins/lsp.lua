@@ -143,8 +143,11 @@ return {
         ts_ls = {},
         svelte = {},
         bashls = {},
-        emmet_ls = {},
+        emmet_language_server = {
+          filetypes = { "svelte", "css", "eruby", "html", "javascript", "javascriptreact", "less", "sass", "scss", "pug", "typescriptreact" },
+        },
         biome = {},
+        tailwindcss = {},
 
         -- xml
         lemminx = {},
