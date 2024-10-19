@@ -23,10 +23,12 @@ return {
       renderer = {
         group_empty = true,
         icons = {
+          git_placement = "after",
           show = {
-            file = true,
-            folder = true,
-            folder_arrow = true,
+            file = false,
+            folder = false,
+            folder_arrow = false,
+            git = true,
           },
         },
       },
