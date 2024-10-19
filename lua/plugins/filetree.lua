@@ -24,9 +24,9 @@ return {
         group_empty = true,
         icons = {
           show = {
-            file = false,
-            folder = false,
-            folder_arrow = false,
+            file = true,
+            folder = true,
+            folder_arrow = true,
           },
         },
       },
